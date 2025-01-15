@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "message": "Data",
+    "responseObject": [
+        {
+            "pk_material_id": 1,
+            "code_material": "TSOP-1",
+            "tsm": "TSM5608G-1",
+            "dtsm": "DTSM5608G-1",
+            "grade": "X660T",
+            "shrinkage": "0.45"
+        },
+        {
+            "pk_material_id": 1,
+            "code_material": "TSOP-5",
+            "tsm": "TSM5608G-5AL",
+            "dtsm": "DTSM5608G-5AL",
+            "grade": "LA880T",
+            "shrinkage": "0.45"
+        },
+        {
+            "pk_material_id": 1,
+            "code_material": "TSOP-5",
+            "tsm": "TSM5608G-5A",
+            "dtsm": "DTSM5608G-5A",
+            "grade": "LA880T",
+            "shrinkage": "0.45"
+        },
+        {
+            "pk_material_id": 1,
+            "code_material": "TSOP-7",
+            "tsm": "TSM5608G-7",
+            "dtsm": "DTSM5608G-7",
+            "grade": "TSOP-7",
+            "shrinkage": "0.45"
+        },
+        {
+            "pk_material_id": 1,
+            "code_material": "TSOP-7",
+            "tsm": "NEW TSOP-7",
+            "dtsm": "DTSM5608G-7",
+            "grade": "NEW TSOP-7",
+            "shrinkage": "0.45"
+        }
+    ]
+}
