@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "message": "Data",
+  "responseObject":
+  [
+      {
+          "pk_material_id": 1,
+          "category": "tsop-1",
+          "tsm": "TSM5608G-1",
+          "dtsm": "DTSM5608G-1",
+          "grade": "X660T",
+          "costperkg": 35209,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 2,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5AL",
+          "dtsm": "DTSM5608G-5AL",
+          "grade": "LA880T",
+          "costperkg": 36388,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 3,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5A",
+          "dtsm": "DTSM5608G-5A",
+          "grade": "LA880T",
+          "costperkg": 36388,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 4,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5L",
+          "dtsm": "DTSM5608G-5L",
+          "grade": "LA880T",
+          "costperkg": 36388,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 5,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5ALS",
+          "dtsm": "DTSM5608G-5ALS",
+          "grade": "LA880T",
+          "costperkg": 36388,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 6,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5L",
+          "dtsm": "DTSM5608G-5L",
+          "grade": "LA880T Nat + MB",
+          "costperkg": 28714,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 7,
+          "category": "tsop-5",
+          "tsm": "TSM5608G-5B",
+          "dtsm": "DTSM5608G-5B",
+          "grade": "BR5B1",
+          "costperkg": 50454,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 8,
+          "category": "tsop-7",
+          "tsm": "TSM5608G-7",
+          "dtsm": "DTSM5608G-7",
+          "grade": "TSOP-7",
+          "costperkg": 34651,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 9,
+          "category": "tsop-7",
+          "tsm": "NEW TSOP-7",
+          "dtsm": "DTSM5608G-7",
+          "grade": "NEW TSOP-7",
+          "costperkg": 26323,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 10,
+          "category": "pp-1",
+          "tsm": "TSM5514G-2",
+          "dtsm": "DTSM5514G-2",
+          "grade": "IPC B132AT",
+          "costperkg": 27731,
+          "shrinkage": 0.35
+      },
+      {
+          "pk_material_id": 11,
+          "category": "pp-1",
+          "tsm": "TSM5514G-2L",
+          "dtsm": "DTSM5514G-2L",
+          "grade": "IPC B132AT",
+          "costperkg": 27731,
+          "shrinkage": 0.35
+      },
+      {
+          "pk_material_id": 12,
+          "category": "pp-3",
+          "tsm": "TSM5514G-3A",
+          "dtsm": "DTSM5514G-3AL",
+          "grade": "(PP) CPS188",
+          "costperkg": 28789,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 13,
+          "category": "pp-3",
+          "tsm": "TSM5514G-3BL",
+          "dtsm": "DTSM5514G-3BLS",
+          "grade": "(PP) AZ864E4",
+          "costperkg": 32832,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 14,
+          "category": "pp-3",
+          "tsm": "TSM5514G-3B",
+          "dtsm": "DTSM5514G-3B",
+          "grade": "(PP) AZ864E4",
+          "costperkg": 32832,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 15,
+          "category": "exxon",
+          "tsm": "TSM5514G-2",
+          "dtsm": "DTSM5514G-2",
+          "grade": "(PP) EXXON AP03 + MB",
+          "costperkg": 20561,
+          "shrinkage": 0.45
+      },
+      {
+          "pk_material_id": 16,
+          "category": "exxon",
+          "tsm": "TSM5514G-3AL",
+          "dtsm": "DTSM5514G-3AL",
+          "grade": "(PP) EXXON P8285 + MB",
+          "costperkg": 20561,
+          "shrinkage": 0.35
+      }
+  ]
+}

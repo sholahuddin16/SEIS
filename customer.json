@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "message": "Data",
+  "responseObject": [
+    {
+      "id": 1,
+      "name": "ABC Corporation",
+      "address": "123 Industrial Park, Cityville"
+    },
+    {
+      "id": 2,
+      "name": "XYZ Engineering",
+      "address": "456 Engineering Avenue, TechTown"
+    },
+    {
+      "id": 3,
+      "name": "GreenTech Ltd.",
+      "address": "789 EcoStreet, GreenCity"
+    },
+    {
+      "id": 4,
+      "name": "MegaCon Group",
+      "address": "101 Construction Blvd, BuildTown"
+    },
+    {
+      "id": 5,
+      "name": "InfraBuild Inc.",
+      "address": "202 Infrastructure Way, StructCity"
+    },
+    {
+      "id": 6,
+      "name": "EcoBuild Solutions",
+      "address": "303 Sustainable Road, GreenVille"
+    },
+    {
+      "id": 7,
+      "name": "UrbanPlanners Co.",
+      "address": "404 Urban Lane, PlanCity"
+    },
+    {
+      "id": 8,
+      "name": "Skyline Projects",
+      "address": "505 Skyline Drive, HighRiseTown"
+    },
+    {
+      "id": 9,
+      "name": "SmartGrid Innovations",
+      "address": "606 Grid Circuit, PowerVille"
+    },
+    {
+      "id": 10,
+      "name": "AquaSystems Ltd.",
+      "address": "707 Waterway, AquaCity"
+    }
+  ]
+}
