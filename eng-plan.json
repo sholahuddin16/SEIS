@@ -6,6 +6,7 @@
         "pk_engineering_plan_id": 1,
         "rfqid": "RFQ123456",
         "part_number": "PN-78910",
+        "part_name": "Cover Panel",
         "quantity": "500",
         "remarks": "Standard tolerance ±0.05 mm",
         "material": "ABS (Acrylonitrile Butadiene Styrene)",
@@ -20,6 +21,7 @@
         "pk_engineering_plan_id": 2,
         "rfqid": "RFQ123457",
         "part_number": "PN-78911",
+        "part_name": "Heat Shield",
         "quantity": "1000",
         "remarks": "High heat resistance required",
         "material": "PC (Polycarbonate)",
@@ -34,6 +36,7 @@
         "pk_engineering_plan_id": 3,
         "rfqid": "RFQ123458",
         "part_number": "PN-78912",
+        "part_name": "Lens Cover",
         "quantity": "750",
         "remarks": "UV resistant material needed",
         "material": "PP (Polypropylene)",
@@ -48,6 +51,7 @@
         "pk_engineering_plan_id": 4,
         "rfqid": "RFQ123459",
         "part_number": "PN-78913",
+        "part_name": "Control Knob",
         "quantity": "300",
         "remarks": "Custom color required",
         "material": "HDPE (High-Density Polyethylene)",
@@ -62,6 +66,7 @@
         "pk_engineering_plan_id": 5,
         "rfqid": "RFQ123460",
         "part_number": "PN-78914",
+        "part_name": "Gear Housing",
         "quantity": "1200",
         "remarks": "Low shrinkage required",
         "material": "POM (Polyoxymethylene)",
@@ -76,6 +81,7 @@
         "pk_engineering_plan_id": 6,
         "rfqid": "RFQ123461",
         "part_number": "PN-78915",
+        "part_name": "Display Frame",
         "quantity": "450",
         "remarks": "High transparency needed",
         "material": "PMMA (Polymethyl Methacrylate)",
@@ -90,6 +96,7 @@
         "pk_engineering_plan_id": 7,
         "rfqid": "RFQ123462",
         "part_number": "PN-78916",
+        "part_name": "Impact Protector",
         "quantity": "600",
         "remarks": "Impact resistance required",
         "material": "PC/ABS Blend",
@@ -104,6 +111,7 @@
         "pk_engineering_plan_id": 8,
         "rfqid": "RFQ123463",
         "part_number": "PN-78917",
+        "part_name": "Eco Lid",
         "quantity": "800",
         "remarks": "Recyclable material preferred",
         "material": "PLA (Polylactic Acid)",
@@ -118,6 +126,7 @@
         "pk_engineering_plan_id": 9,
         "rfqid": "RFQ123464",
         "part_number": "PN-78918",
+        "part_name": "Bearing Sleeve",
         "quantity": "550",
         "remarks": "Low friction coefficient required",
         "material": "PTFE (Polytetrafluoroethylene)",
@@ -132,6 +141,7 @@
         "pk_engineering_plan_id": 10,
         "rfqid": "RFQ123465",
         "part_number": "PN-78919",
+        "part_name": "Thermal Block",
         "quantity": "1000",
         "remarks": "High thermal stability required",
         "material": "PEEK (Polyether Ether Ketone)",
@@ -143,5 +153,6 @@
         "price_material": "$9.00/kg"
     }
 ]
+
 
 }
