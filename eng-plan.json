@@ -1,9 +1,9 @@
 {
-  "success": true,
-  "statusCode": 200,
-  "message": "Data",
-  "responseObject":[
-    {
+    "success": true,
+    "statusCode": 200,
+    "message": "Data",
+    "responseObject": [
+      {
         "pk_engineering_plan_id": 1,
         "rfqid": "RFQ123456",
         "part_number": "PN-78910",
@@ -11,14 +11,19 @@
         "quantity": "500",
         "remarks": "Standard tolerance ±0.05 mm",
         "material": "ABS (Acrylonitrile Butadiene Styrene)",
-        "weight": "2.5 kg",
+        "weight": 2500,
         "injection_process": "Hot runner system",
-        "injection_rate": "75 mm/s",
-        "clamping_force": "2000 kN",
-        "loss_weight": "0.03 kg",
-        "price_material": "$3.50/kg"
-    },
-    {
+        "injection_rate": 75,
+        "clamping_force": 2000,
+        "loss_weight": 30,
+        "price_material": 350,
+        "sysmodel": "Model-A",
+        "customer_name": "Customer X",
+        "project_code": "PROJ001",
+        "status_feasibility": "Approved",
+        "due_date": "2025-02-15"
+      },
+      {
         "pk_engineering_plan_id": 2,
         "rfqid": "RFQ123457",
         "part_number": "PN-78911",
@@ -26,14 +31,19 @@
         "quantity": "1000",
         "remarks": "High heat resistance required",
         "material": "PC (Polycarbonate)",
-        "weight": "3.0 kg",
+        "weight": 3000,
         "injection_process": "Cold runner system",
-        "injection_rate": "60 mm/s",
-        "clamping_force": "2500 kN",
-        "loss_weight": "0.05 kg",
-        "price_material": "$4.00/kg"
-    },
-    {
+        "injection_rate": 60,
+        "clamping_force": 2500,
+        "loss_weight": 50,
+        "price_material": 400,
+        "sysmodel": "Model-B",
+        "customer_name": "Customer Y",
+        "project_code": "PROJ002",
+        "status_feasibility": "Pending",
+        "due_date": "2025-03-10"
+      },
+      {
         "pk_engineering_plan_id": 3,
         "rfqid": "RFQ123458",
         "part_number": "PN-78912",
@@ -41,14 +51,19 @@
         "quantity": "750",
         "remarks": "UV resistant material needed",
         "material": "PP (Polypropylene)",
-        "weight": "1.8 kg",
+        "weight": 1800,
         "injection_process": "Hot runner system",
-        "injection_rate": "80 mm/s",
-        "clamping_force": "1800 kN",
-        "loss_weight": "0.02 kg",
-        "price_material": "$2.80/kg"
-    },
-    {
+        "injection_rate": 80,
+        "clamping_force": 1800,
+        "loss_weight": 20,
+        "price_material": 280,
+        "sysmodel": "Model-C",
+        "customer_name": "Customer Z",
+        "project_code": "PROJ003",
+        "status_feasibility": "Approved",
+        "due_date": "2025-02-20"
+      },
+      {
         "pk_engineering_plan_id": 4,
         "rfqid": "RFQ123459",
         "part_number": "PN-78913",
@@ -56,14 +71,19 @@
         "quantity": "300",
         "remarks": "Custom color required",
         "material": "HDPE (High-Density Polyethylene)",
-        "weight": "2.0 kg",
+        "weight": 2000,
         "injection_process": "Cold runner system",
-        "injection_rate": "70 mm/s",
-        "clamping_force": "2200 kN",
-        "loss_weight": "0.04 kg",
-        "price_material": "$3.20/kg"
-    },
-    {
+        "injection_rate": 70,
+        "clamping_force": 2200,
+        "loss_weight": 40,
+        "price_material": 320,
+        "sysmodel": "Model-D",
+        "customer_name": "Customer A",
+        "project_code": "PROJ004",
+        "status_feasibility": "Rejected",
+        "due_date": "2025-03-01"
+      },
+      {
         "pk_engineering_plan_id": 5,
         "rfqid": "RFQ123460",
         "part_number": "PN-78914",
@@ -71,14 +91,19 @@
         "quantity": "1200",
         "remarks": "Low shrinkage required",
         "material": "POM (Polyoxymethylene)",
-        "weight": "2.2 kg",
+        "weight": 2200,
         "injection_process": "Hot runner system",
-        "injection_rate": "85 mm/s",
-        "clamping_force": "2300 kN",
-        "loss_weight": "0.01 kg",
-        "price_material": "$3.80/kg"
-    },
-    {
+        "injection_rate": 85,
+        "clamping_force": 2300,
+        "loss_weight": 10,
+        "price_material": 380,
+        "sysmodel": "Model-E",
+        "customer_name": "Customer B",
+        "project_code": "PROJ005",
+        "status_feasibility": "Approved",
+        "due_date": "2025-02-25"
+      },
+      {
         "pk_engineering_plan_id": 6,
         "rfqid": "RFQ123461",
         "part_number": "PN-78915",
@@ -86,14 +111,19 @@
         "quantity": "450",
         "remarks": "High transparency needed",
         "material": "PMMA (Polymethyl Methacrylate)",
-        "weight": "2.7 kg",
+        "weight": 2700,
         "injection_process": "Hot runner system",
-        "injection_rate": "78 mm/s",
-        "clamping_force": "2100 kN",
-        "loss_weight": "0.03 kg",
-        "price_material": "$5.00/kg"
-    },
-    {
+        "injection_rate": 78,
+        "clamping_force": 2100,
+        "loss_weight": 30,
+        "price_material": 500,
+        "sysmodel": "Model-F",
+        "customer_name": "Customer C",
+        "project_code": "PROJ006",
+        "status_feasibility": "Pending",
+        "due_date": "2025-03-05"
+      },
+      {
         "pk_engineering_plan_id": 7,
         "rfqid": "RFQ123462",
         "part_number": "PN-78916",
@@ -101,14 +131,19 @@
         "quantity": "600",
         "remarks": "Impact resistance required",
         "material": "PC/ABS Blend",
-        "weight": "3.5 kg",
+        "weight": 3500,
         "injection_process": "Cold runner system",
-        "injection_rate": "65 mm/s",
-        "clamping_force": "2600 kN",
-        "loss_weight": "0.06 kg",
-        "price_material": "$4.50/kg"
-    },
-    {
+        "injection_rate": 65,
+        "clamping_force": 2600,
+        "loss_weight": 60,
+        "price_material": 450,
+        "sysmodel": "Model-G",
+        "customer_name": "Customer D",
+        "project_code": "PROJ007",
+        "status_feasibility": "Approved",
+        "due_date": "2025-02-28"
+      },
+      {
         "pk_engineering_plan_id": 8,
         "rfqid": "RFQ123463",
         "part_number": "PN-78917",
@@ -116,14 +151,19 @@
         "quantity": "800",
         "remarks": "Recyclable material preferred",
         "material": "PLA (Polylactic Acid)",
-        "weight": "1.5 kg",
+        "weight": 1500,
         "injection_process": "Hot runner system",
-        "injection_rate": "90 mm/s",
-        "clamping_force": "1900 kN",
-        "loss_weight": "0.02 kg",
-        "price_material": "$2.50/kg"
-    },
-    {
+        "injection_rate": 90,
+        "clamping_force": 1900,
+        "loss_weight": 20,
+        "price_material": 250,
+        "sysmodel": "Model-H",
+        "customer_name": "Customer E",
+        "project_code": "PROJ008",
+        "status_feasibility": "Pending",
+        "due_date": "2025-03-08"
+      },
+      {
         "pk_engineering_plan_id": 9,
         "rfqid": "RFQ123464",
         "part_number": "PN-78918",
@@ -131,14 +171,19 @@
         "quantity": "550",
         "remarks": "Low friction coefficient required",
         "material": "PTFE (Polytetrafluoroethylene)",
-        "weight": "2.1 kg",
+        "weight": 2100,
         "injection_process": "Cold runner system",
-        "injection_rate": "68 mm/s",
-        "clamping_force": "2400 kN",
-        "loss_weight": "0.05 kg",
-        "price_material": "$6.50/kg"
-    },
-    {
+        "injection_rate": 68,
+        "clamping_force": 2400,
+        "loss_weight": 50,
+        "price_material": 650,
+        "sysmodel": "Model-I",
+        "customer_name": "Customer F",
+        "project_code": "PROJ009",
+        "status_feasibility": "Rejected",
+        "due_date": "2025-03-12"
+      },
+      {
         "pk_engineering_plan_id": 10,
         "rfqid": "RFQ123465",
         "part_number": "PN-78919",
@@ -146,14 +191,18 @@
         "quantity": "1000",
         "remarks": "High thermal stability required",
         "material": "PEEK (Polyether Ether Ketone)",
-        "weight": "2.9 kg",
+        "weight": 2900,
         "injection_process": "Hot runner system",
-        "injection_rate": "85 mm/s",
-        "clamping_force": "3000 kN",
-        "loss_weight": "0.04 kg",
-        "price_material": "$9.00/kg"
-    }
-]
-
-
-}
+        "injection_rate": 85,
+        "clamping_force": 3000,
+        "loss_weight": 40,
+        "price_material": 900,
+        "sysmodel": "Model-J",
+        "customer_name": "Customer G",
+        "project_code": "PROJ010",
+        "status_feasibility": "Approved",
+        "due_date": "2025-03-15"
+      }
+    ]
+  }
+  
