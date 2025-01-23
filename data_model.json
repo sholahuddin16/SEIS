@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Data",
+    "responseObject": [
+        {
+          "pk_model_id": 1,
+          "model": "Structural Analysis Model"
+        },
+        {
+          "pk_model_id": 2,
+          "model": "Energy Efficiency Model"
+        },
+        {
+          "pk_model_id": 3,
+          "model": "Renewable Energy Model"
+        },
+        {
+          "pk_model_id": 4,
+          "model": "Traffic Flow Analysis"
+        },
+        {
+          "pk_model_id": 5,
+          "model": "Logistics Optimization Model"
+        },
+        {
+          "pk_model_id": 6,
+          "model": "Sustainable Design Model"
+        },
+        {
+          "pk_model_id": 7,
+          "model": "Environmental Impact Model"
+        },
+        {
+          "pk_model_id": 8,
+          "model": "Structural Stability Model"
+        },
+        {
+          "pk_model_id": 9,
+          "model": "Grid Performance Model"
+        },
+        {
+          "pk_model_id": 10,
+          "model": "Hydraulic Design Model"
+        }
+    ]
+}
