@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "id": 1,
+      "surface_treatment": "PAINT"
+    },
+    {
+      "id": 2,
+      "surface_treatment": "GRAIN"
+    },
+    {
+      "id": 3,
+      "surface_treatment": "PAINT"
+    },
+    {
+      "id": 4,
+      "surface_treatment": "GRAIN"
+    },
+    {
+      "id": 5,
+      "surface_treatment": "PAINT"
+    },
+    {
+      "id": 6,
+      "surface_treatment": "GRAIN"
+    },
+    {
+      "id": 7,
+      "surface_treatment": "PAINT"
+    },
+    {
+      "id": 8,
+      "surface_treatment": "GRAIN"
+    },
+    {
+      "id": 9,
+      "surface_treatment": "PAINT"
+    },
+    {
+      "id": 10,
+      "surface_treatment": "GRAIN"
+    }
+  ]
+}
