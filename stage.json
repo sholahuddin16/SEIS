@@ -3,37 +3,166 @@
   "statusCode": 200,
   "message": "Data",
   "responseObject": [
-    {
-      "pk_stage_id": 1,
-      "stage_name": "RFQ-DWG CONDITION",
-      "stage_color": "#8af298"
-    },
-    {
-      "pk_stage_id": 2,
-      "stage_name": "C-DWG",
-      "stage_color": "#f2ef41"
-    },
-    {
-      "pk_stage_id": 3,
-      "stage_name": "F DWG",
-      "stage_color": "#93cfc9"
-    },
-    {
-      "pk_stage_id": 4,
-      "stage_name": "GOSHI",
-      "stage_color": "#b3a598"
-    },
-    {
-      "pk_stage_id": 5,
-      "stage_name": "SOP",
-      "stage_color": "#eda766"
-    },
-    {
-      "pk_stage_id": 6,
-      "stage_name": "GOGUCHI",
-      "stage_color": "#9c4b55"
-    }
-    
-  ]
+      {
+        "pk_rfq_id": 1,
+        "rfqid": "RFQ-001",
+        "customer_name": "Toyota Motors Corporation",
+        "project_code": "PJT-001",
+        "volume": 1200,
+        "period": "2025-01-01",
+        "exchange_rate": 14.25,
+        "rate": "$",
+        "date_receive": "2025-01-10",
+        "due_date": "2025-02-15",
+        "eng_due_date": "2025-02-20",
+        "stage": "RFQ-DWG CONDITION",
+        "stage_color": "#8af298",
+        "status": "Open"
+      },
+      {
+        "pk_rfq_id": 2,
+        "rfqid": "RFQ-002",
+        "customer_name": "Honeywell International",
+        "project_code": "PJT-002",
+        "volume": 1500,
+        "period": "2025-01-02",
+        "exchange_rate": 13.75,
+        "rate": "¥",
+        "date_receive": "2025-01-12",
+        "due_date": "2025-02-20",
+        "eng_due_date": "2025-02-25",
+        "stage": "C-DWG",
+        "stage_color": "#f2ef41",
+        "status": "Pending"
+      },
+      {
+        "pk_rfq_id": 3,
+        "rfqid": "RFQ-003",
+        "customer_name": "Eaton Corporation",
+        "project_code": "PJT-003",
+        "volume": 800,
+        "period": "2025-01-05",
+        "exchange_rate": 15.00,
+        "rate": "CN¥",
+        "date_receive": "2025-01-15",
+        "due_date": "2025-02-28",
+        "eng_due_date": "2025-03-05",
+        "stage": "F DWG",
+        "stage_color": "#93cfc9",
+        "status": "Closed"
+      },
+      {
+        "pk_rfq_id": 4,
+        "rfqid": "RFQ-004",
+        "customer_name": "Ford Motor Company",
+        "project_code": "PJT-004",
+        "volume": 2000,
+        "period": "2025-01-03",
+        "exchange_rate": 12.85,
+        "rate": "$",
+        "date_receive": "2025-01-11",
+        "due_date": "2025-02-18",
+        "eng_due_date": "2025-02-24",
+        "stage": "GOSHI",
+        "stage_color": "#b3a598",
+        "status": "Open"
+      },
+      {
+        "pk_rfq_id": 5,
+        "rfqid": "RFQ-005",
+        "customer_name": "General Electric",
+        "project_code": "PJT-005",
+        "volume": 1800,
+        "period": "2025-01-08",
+        "exchange_rate": 11.75,
+        "rate": "¥",
+        "date_receive": "2025-01-13",
+        "due_date": "2025-03-01",
+        "eng_due_date": "2025-03-10",
+        "stage": "SOP",
+        "stage_color": "#eda766",
+        "status": "Pending"
+      },
+      {
+        "pk_rfq_id": 6,
+        "rfqid": "RFQ-006",
+        "customer_name": "Siemens AG",
+        "project_code": "PJT-006",
+        "volume": 3000,
+        "period": "2025-01-09",
+        "exchange_rate": 13.45,
+        "rate": "CN¥",
+        "date_receive": "2025-01-20",
+        "due_date": "2025-03-15",
+        "eng_due_date": "2025-03-20",
+        "stage": "GOGUCHI",
+        "stage_color": "#9c4b55",
+        "status": "Closed"
+      },
+      {
+        "pk_rfq_id": 7,
+        "rfqid": "RFQ-007",
+        "customer_name": "Bosch Group",
+        "project_code": "PJT-007",
+        "volume": 500,
+        "period": "2025-01-15",
+        "exchange_rate": 14.10,
+        "rate": "$",
+        "date_receive": "2025-01-25",
+        "due_date": "2025-02-22",
+        "eng_due_date": "2025-02-28",
+        "stage": "RFQ-DWG CONDITION",
+        "stage_color": "#8af298",
+        "status": "Open"
+      },
+      {
+        "pk_rfq_id": 8,
+        "rfqid": "RFQ-008",
+        "customer_name": "Caterpillar Inc.",
+        "project_code": "PJT-008",
+        "volume": 2200,
+        "period": "2025-01-12",
+        "exchange_rate": 13.90,
+        "rate": "¥",
+        "date_receive": "2025-01-18",
+        "due_date": "2025-02-25",
+        "eng_due_date": "2025-03-05",
+        "stage": "C-DWG",
+        "stage_color": "#f2ef41",
+        "status": "Pending"
+      },
+      {
+        "pk_rfq_id": 9,
+        "rfqid": "RFQ-009",
+        "customer_name": "Johnson & Johnson",
+        "project_code": "PJT-009",
+        "volume": 3200,
+        "period": "2025-01-17",
+        "exchange_rate": 12.50,
+        "rate": "CN¥",
+        "date_receive": "2025-01-22",
+        "due_date": "2025-03-10",
+        "eng_due_date": "2025-03-15",
+        "stage": "F DWG",
+        "stage_color": "#93cfc9",
+        "status": "Open"
+      },
+      {
+        "pk_rfq_id": 10,
+        "rfqid": "RFQ-010",
+        "customer_name": "Apple Inc.",
+        "project_code": "PJT-010",
+        "volume": 4500,
+        "period": "2025-01-19",
+        "exchange_rate": 13.60,
+        "rate": "$",
+        "date_receive": "2025-01-25",
+        "due_date": "2025-03-20",
+        "eng_due_date": "2025-03-30",
+        "stage": "GOSHI",
+        "stage_color": "#b3a598",
+        "status": "Pending"
+      }
+    ]
 }
 
