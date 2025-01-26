@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "ID": 1,
+      "Part_Number": "-",
+      "Part_Name": "TAPE NO.1 (10x70)",
+      "Cost_Component_Part": 96
+    },
+    {
+      "ID": 2,
+      "Part_Number": "-",
+      "Part_Name": "TAPE NO.2 (10x220)",
+      "Cost_Component_Part": 65
+    },
+    {
+      "ID": 3,
+      "Part_Number": "-",
+      "Part_Name": "SEAL PACKING (5x800)",
+      "Cost_Component_Part": 82
+    },
+    {
+      "ID": 4,
+      "Part_Number": "90183-05040",
+      "Part_Name": "NUT, SPRING",
+      "Cost_Component_Part": 70
+    },
+    {
+      "ID": 5,
+      "Part_Number": "90167-50063",
+      "Part_Name": "SCREW, PAN TAPPING",
+      "Cost_Component_Part": 64
+    },
+    {
+      "ID": 6,
+      "Part_Number": "90249-06160",
+      "Part_Name": "CLIP, RR SPOILER NO.1",
+      "Cost_Component_Part": 66
+    },
+    {
+      "ID": 7,
+      "Part_Number": "76872-582DL",
+      "Part_Name": "PROTECTOR, RR SPOILER, NO.1 (Ø38)",
+      "Cost_Component_Part": 60
+    },
+    {
+      "ID": 8,
+      "Part_Number": "76873-582DL",
+      "Part_Name": "PROTECTOR, RR SPOILER, NO.2 (50x5xt1.5)",
+      "Cost_Component_Part": 70
+    },
+    {
+      "ID": 9,
+      "Part_Number": "76875-582DL",
+      "Part_Name": "PROTECTOR, RR SPOILER, NO.4 (588x12xt4.5)",
+      "Cost_Component_Part": 80
+    },
+    {
+      "ID": 10,
+      "Part_Number": "81006-0K030",
+      "Part_Name": "LAMP SET, STOP CTR",
+      "Cost_Component_Part": 92
+    },
+    {
+      "ID": 11,
+      "Part_Number": "90167-50063",
+      "Part_Name": "SCREW",
+      "Cost_Component_Part": 70
+    },
+    {
+      "ID": 12,
+      "Part_Number": "90182-06011",
+      "Part_Name": "NUT, W/WASHER",
+      "Cost_Component_Part": 64
+    },
+    {
+      "ID": 13,
+      "Part_Number": "-",
+      "Part_Name": "APPLY PREMER (38895 mm2)",
+      "Cost_Component_Part": 95
+    }
+  ]
+}
