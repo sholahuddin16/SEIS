@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "tonnage_id": 1,
+      "tonnage": 80,
+      "cycle_time_sec": 28,
+      "rate_per_minute": 18.8,
+      "loss_weight_percent": 90
+    },
+    {
+      "tonnage_id": 2,
+      "tonnage": 150,
+      "cycle_time_sec": 45,
+      "rate_per_minute": 32.5,
+      "loss_weight_percent": 90
+    },
+    {
+      "tonnage_id": 3,
+      "tonnage": 170,
+      "cycle_time_sec": 35,
+      "rate_per_minute": 22.9,
+      "loss_weight_percent": 94
+    },
+    {
+      "tonnage_id": 4,
+      "tonnage": 230,
+      "cycle_time_sec": 40,
+      "rate_per_minute": 64.6,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 5,
+      "tonnage": 350,
+      "cycle_time_sec": 40,
+      "rate_per_minute": 36.6,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 6,
+      "tonnage": 650,
+      "cycle_time_sec": 45,
+      "rate_per_minute": 68.0,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 7,
+      "tonnage": 1300,
+      "cycle_time_sec": 50,
+      "rate_per_minute": 95.8,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 8,
+      "tonnage": 1600,
+      "cycle_time_sec": 55,
+      "rate_per_minute": 127.1,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 9,
+      "tonnage": 2500,
+      "cycle_time_sec": 55,
+      "rate_per_minute": 148.9,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 10,
+      "tonnage": 3500,
+      "cycle_time_sec": 55,
+      "rate_per_minute": 182.3,
+      "loss_weight_percent": 98
+    },
+    {
+      "tonnage_id": 11,
+      "tonnage": 30,
+      "cycle_time_sec": 22,
+      "rate_per_minute": null,
+      "loss_weight_percent": 90
+    }
+  ]
+  
+}

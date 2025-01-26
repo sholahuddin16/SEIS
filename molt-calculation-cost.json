@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "id": 1,
+      "slider": 15000000
+    },
+    {
+      "id": 2,
+      "keisa_core": 20000000
+    },
+    {
+      "id": 3,
+      "insert_cav": 10000000
+    },
+    {
+      "id": 4,
+      "hot_runner": 30000000
+    },
+    {
+      "id": 5,
+      "valve_gate": 55000000
+    }
+  ]
+}
