@@ -15,7 +15,8 @@
         "date_receive": "2025-01-10",
         "due_date": "2025-02-15",
         "eng_due_date": "2025-02-20",
-        "stage": "RFQ-DWG CONDITION",
+        "pk_stage_id": 1,
+        "stage_name": "RFQ-DWG CONDITION",
         "stage_color": "#8af298",
         "status": "Open"
       },
@@ -31,7 +32,8 @@
         "date_receive": "2025-01-12",
         "due_date": "2025-02-20",
         "eng_due_date": "2025-02-25",
-        "stage": "C-DWG",
+        "pk_stage_id": 2,
+        "stage_name": "C-DWG",
         "stage_color": "#f2ef41",
         "status": "Pending"
       },
@@ -47,7 +49,8 @@
         "date_receive": "2025-01-15",
         "due_date": "2025-02-28",
         "eng_due_date": "2025-03-05",
-        "stage": "F DWG",
+        "pk_stage_id": 3,
+        "stage_name": "F DWG",
         "stage_color": "#93cfc9",
         "status": "Closed"
       },
@@ -63,7 +66,8 @@
         "date_receive": "2025-01-11",
         "due_date": "2025-02-18",
         "eng_due_date": "2025-02-24",
-        "stage": "GOSHI",
+        "pk_stage_id": 4,
+        "stage_name": "GOSHI",
         "stage_color": "#b3a598",
         "status": "Open"
       },
@@ -79,7 +83,8 @@
         "date_receive": "2025-01-13",
         "due_date": "2025-03-01",
         "eng_due_date": "2025-03-10",
-        "stage": "SOP",
+        "pk_stage_id": 5,
+        "stage_name": "SOP",
         "stage_color": "#eda766",
         "status": "Pending"
       },
@@ -95,7 +100,8 @@
         "date_receive": "2025-01-20",
         "due_date": "2025-03-15",
         "eng_due_date": "2025-03-20",
-        "stage": "GOGUCHI",
+        "pk_stage_id": 6,
+        "stage_name": "GOGUCHI",
         "stage_color": "#9c4b55",
         "status": "Closed"
       },
@@ -111,7 +117,8 @@
         "date_receive": "2025-01-25",
         "due_date": "2025-02-22",
         "eng_due_date": "2025-02-28",
-        "stage": "RFQ-DWG CONDITION",
+        "pk_stage_id": 1,
+        "stage_name": "RFQ-DWG CONDITION",
         "stage_color": "#8af298",
         "status": "Open"
       },
@@ -127,7 +134,8 @@
         "date_receive": "2025-01-18",
         "due_date": "2025-02-25",
         "eng_due_date": "2025-03-05",
-        "stage": "C-DWG",
+        "pk_stage_id": 2,
+        "stage_name": "C-DWG",
         "stage_color": "#f2ef41",
         "status": "Pending"
       },
@@ -143,7 +151,8 @@
         "date_receive": "2025-01-22",
         "due_date": "2025-03-10",
         "eng_due_date": "2025-03-15",
-        "stage": "F DWG",
+        "pk_stage_id": 3,
+        "stage_name": "F DWG",
         "stage_color": "#93cfc9",
         "status": "Open"
       },
@@ -159,7 +168,8 @@
         "date_receive": "2025-01-25",
         "due_date": "2025-03-20",
         "eng_due_date": "2025-03-30",
-        "stage": "GOSHI",
+        "pk_stage_id": 6,
+        "stage_name": "GOSHI",
         "stage_color": "#b3a598",
         "status": "Pending"
       }
