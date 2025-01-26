@@ -5,23 +5,28 @@
   "responseObject": [
     {
       "id": 1,
-      "slider": 15000000
+      "name": "slider",
+      "molt-value": 15000000
     },
     {
       "id": 2,
-      "keisa_core": 20000000
+      "name": "keisa_core",
+      "molt-value": 20000000
     },
     {
       "id": 3,
-      "insert_cav": 10000000
+      "name": "insert_cav",
+      "molt-value": 10000000
     },
     {
       "id": 4,
-      "hot_runner": 30000000
+      "name": "hot_runner",
+      "molt-value": 30000000
     },
     {
       "id": 5,
-      "valve_gate": 55000000
+      "name": "valve_gate",
+      "molt-value": 55000000
     }
   ]
 }
