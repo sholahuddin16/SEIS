@@ -27,6 +27,11 @@
       "pk_mold_id": 5,
       "mold_name": "valve_gate",
       "mold_value": 55000000
+    },
+    {
+      "pk_mold_id": 6,
+      "mold_name": "mold",
+      "mold_value": 1000000
     }
   ]
 }
