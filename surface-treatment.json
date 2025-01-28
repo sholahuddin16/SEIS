@@ -4,43 +4,43 @@
   "message": "Data",
   "responseObject": [
     {
-      "id": 1,
+      "pk_surface_treatment_id": 1,
       "surface_treatment": "PAINT"
     },
     {
-      "id": 2,
+      "pk_surface_treatment_id": 2,
       "surface_treatment": "GRAIN"
     },
     {
-      "id": 3,
+      "pk_surface_treatment_id": 3,
       "surface_treatment": "PAINT"
     },
     {
-      "id": 4,
+      "pk_surface_treatment_id": 4,
       "surface_treatment": "GRAIN"
     },
     {
-      "id": 5,
+      "pk_surface_treatment_id": 5,
       "surface_treatment": "PAINT"
     },
     {
-      "id": 6,
+      "pk_surface_treatment_id": 6,
       "surface_treatment": "GRAIN"
     },
     {
-      "id": 7,
+      "pk_surface_treatment_id": 7,
       "surface_treatment": "PAINT"
     },
     {
-      "id": 8,
+      "pk_surface_treatment_id": 8,
       "surface_treatment": "GRAIN"
     },
     {
-      "id": 9,
+      "pk_surface_treatment_id": 9,
       "surface_treatment": "PAINT"
     },
     {
-      "id": 10,
+      "pk_surface_treatment_id": 10,
       "surface_treatment": "GRAIN"
     }
   ]
