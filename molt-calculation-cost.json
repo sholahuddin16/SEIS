@@ -4,29 +4,29 @@
   "message": "Data",
   "responseObject": [
     {
-      "id": 1,
-      "name": "slider",
-      "molt-value": 15000000
+      "pk_mold_id": 1,
+      "mold_name": "slpk_mold_ider",
+      "mold_value": 15000000
     },
     {
-      "id": 2,
-      "name": "keisa_core",
-      "molt-value": 20000000
+      "pk_mold_id": 2,
+      "mold_name": "keisa_core",
+      "mold_value": 20000000
     },
     {
-      "id": 3,
-      "name": "insert_cav",
-      "molt-value": 10000000
+      "pk_mold_id": 3,
+      "mold_name": "insert_cav",
+      "mold_value": 10000000
     },
     {
-      "id": 4,
-      "name": "hot_runner",
-      "molt-value": 30000000
+      "pk_mold_id": 4,
+      "mold_name": "hot_runner",
+      "mold_value": 30000000
     },
     {
-      "id": 5,
-      "name": "valve_gate",
-      "molt-value": 55000000
+      "pk_mold_id": 5,
+      "mold_name": "valve_gate",
+      "mold_value": 55000000
     }
   ]
 }
