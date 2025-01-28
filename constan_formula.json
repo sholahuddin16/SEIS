@@ -6,7 +6,7 @@
       {
         "pk_const_formula_id": 1,
         "formula_name": "Mold Cost",
-        "formula_value": 1.5
+        "formula_value": "1.5"
       },
     ]
 }
