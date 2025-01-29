@@ -8,78 +8,88 @@
       "tonnage": 80,
       "injection_process": 28,
       "injection_rate": 18.8,
-      "loss_weight": 90
+      "loss_weight": 90,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 2,
       "tonnage": 150,
       "injection_process": 45,
       "injection_rate": 32.5,
-      "loss_weight": 90
+      "loss_weight": 90,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 3,
       "tonnage": 170,
       "injection_process": 35,
       "injection_rate": 22.9,
-      "loss_weight": 94
+      "loss_weight": 94,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 4,
       "tonnage": 230,
       "injection_process": 40,
       "injection_rate": 64.6,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 5,
       "tonnage": 350,
       "injection_process": 40,
       "injection_rate": 36.6,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 6,
       "tonnage": 650,
       "injection_process": 45,
       "injection_rate": 68.0,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 7,
       "tonnage": 1300,
       "injection_process": 50,
       "injection_rate": 95.8,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 8,
       "tonnage": 1600,
       "injection_process": 55,
       "injection_rate": 127.1,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 9,
       "tonnage": 2500,
       "injection_process": 55,
       "injection_rate": 148.9,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 10,
       "tonnage": 3500,
       "injection_process": 55,
       "injection_rate": 182.3,
-      "loss_weight": 98
+      "loss_weight": 98,
+      "is_active": true
     },
     {
       "pk_tonnage_id": 11,
       "tonnage": 30,
       "injection_process": 22,
       "injection_rate": null,
-      "loss_weight": 90
+      "loss_weight": 90,
+      "is_active": true
     }
   ]
-  
 }

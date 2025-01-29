@@ -4,82 +4,95 @@
   "message": "Data",
   "responseObject": [
     {
-      "ID": 1,
-      "Part_Number": "-",
-      "Part_Name": "TAPE NO.1 (10x70)",
-      "Cost_Component_Part": 96
+      "pk_component_part_id": 1,
+      "part_number": "-",
+      "part_name": "TAPE NO.1 (10x70)",
+      "cost_component_part": 96,
+      "is_active": true
     },
     {
-      "ID": 2,
-      "Part_Number": "-",
-      "Part_Name": "TAPE NO.2 (10x220)",
-      "Cost_Component_Part": 65
+      "pk_component_part_id": 2,
+      "part_number": "-",
+      "part_name": "TAPE NO.2 (10x220)",
+      "cost_component_part": 65,
+      "is_active": true
     },
     {
-      "ID": 3,
-      "Part_Number": "-",
-      "Part_Name": "SEAL PACKING (5x800)",
-      "Cost_Component_Part": 82
+      "pk_component_part_id": 3,
+      "part_number": "-",
+      "part_name": "SEAL PACKING (5x800)",
+      "cost_component_part": 82,
+      "is_active": true
     },
     {
-      "ID": 4,
-      "Part_Number": "90183-05040",
-      "Part_Name": "NUT, SPRING",
-      "Cost_Component_Part": 70
+      "pk_component_part_id": 4,
+      "part_number": "90183-05040",
+      "part_name": "NUT, SPRING",
+      "cost_component_part": 70,
+      "is_active": true
     },
     {
-      "ID": 5,
-      "Part_Number": "90167-50063",
-      "Part_Name": "SCREW, PAN TAPPING",
-      "Cost_Component_Part": 64
+      "pk_component_part_id": 5,
+      "part_number": "90167-50063",
+      "part_name": "SCREW, PAN TAPPING",
+      "cost_component_part": 64,
+      "is_active": true
     },
     {
-      "ID": 6,
-      "Part_Number": "90249-06160",
-      "Part_Name": "CLIP, RR SPOILER NO.1",
-      "Cost_Component_Part": 66
+      "pk_component_part_id": 6,
+      "part_number": "90249-06160",
+      "part_name": "CLIP, RR SPOILER NO.1",
+      "cost_component_part": 66,
+      "is_active": true
     },
     {
-      "ID": 7,
-      "Part_Number": "76872-582DL",
-      "Part_Name": "PROTECTOR, RR SPOILER, NO.1 (Ø38)",
-      "Cost_Component_Part": 60
+      "pk_component_part_id": 7,
+      "part_number": "76872-582DL",
+      "part_name": "PROTECTOR, RR SPOILER, NO.1 (Ø38)",
+      "cost_component_part": 60,
+      "is_active": true
     },
     {
-      "ID": 8,
-      "Part_Number": "76873-582DL",
-      "Part_Name": "PROTECTOR, RR SPOILER, NO.2 (50x5xt1.5)",
-      "Cost_Component_Part": 70
+      "pk_component_part_id": 8,
+      "part_number": "76873-582DL",
+      "part_name": "PROTECTOR, RR SPOILER, NO.2 (50x5xt1.5)",
+      "cost_component_part": 70,
+      "is_active": true
     },
     {
-      "ID": 9,
-      "Part_Number": "76875-582DL",
-      "Part_Name": "PROTECTOR, RR SPOILER, NO.4 (588x12xt4.5)",
-      "Cost_Component_Part": 80
+      "pk_component_part_id": 9,
+      "part_number": "76875-582DL",
+      "part_name": "PROTECTOR, RR SPOILER, NO.4 (588x12xt4.5)",
+      "cost_component_part": 80,
+      "is_active": true
     },
     {
-      "ID": 10,
-      "Part_Number": "81006-0K030",
-      "Part_Name": "LAMP SET, STOP CTR",
-      "Cost_Component_Part": 92
+      "pk_component_part_id": 10,
+      "part_number": "81006-0K030",
+      "part_name": "LAMP SET, STOP CTR",
+      "cost_component_part": 92,
+      "is_active": true
     },
     {
-      "ID": 11,
-      "Part_Number": "90167-50063",
-      "Part_Name": "SCREW",
-      "Cost_Component_Part": 70
+      "pk_component_part_id": 11,
+      "part_number": "90167-50063",
+      "part_name": "SCREW",
+      "cost_component_part": 70,
+      "is_active": true
     },
     {
-      "ID": 12,
-      "Part_Number": "90182-06011",
-      "Part_Name": "NUT, W/WASHER",
-      "Cost_Component_Part": 64
+      "pk_component_part_id": 12,
+      "part_number": "90182-06011",
+      "part_name": "NUT, W/WASHER",
+      "cost_component_part": 64,
+      "is_active": true
     },
     {
-      "ID": 13,
-      "Part_Number": "-",
-      "Part_Name": "APPLY PREMER (38895 mm2)",
-      "Cost_Component_Part": 95
+      "pk_component_part_id": 13,
+      "part_number": "-",
+      "part_name": "APPLY PREMER (38895 mm2)",
+      "cost_component_part": 95,
+      "is_active": true
     }
   ]
 }

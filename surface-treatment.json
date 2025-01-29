@@ -5,43 +5,13 @@
   "responseObject": [
     {
       "pk_surface_treatment_id": 1,
-      "surface_treatment": "PAINT"
+      "surface_treatment": "PAINT",
+      "is_active": true
     },
     {
       "pk_surface_treatment_id": 2,
-      "surface_treatment": "GRAIN"
-    },
-    {
-      "pk_surface_treatment_id": 3,
-      "surface_treatment": "PAINT"
-    },
-    {
-      "pk_surface_treatment_id": 4,
-      "surface_treatment": "GRAIN"
-    },
-    {
-      "pk_surface_treatment_id": 5,
-      "surface_treatment": "PAINT"
-    },
-    {
-      "pk_surface_treatment_id": 6,
-      "surface_treatment": "GRAIN"
-    },
-    {
-      "pk_surface_treatment_id": 7,
-      "surface_treatment": "PAINT"
-    },
-    {
-      "pk_surface_treatment_id": 8,
-      "surface_treatment": "GRAIN"
-    },
-    {
-      "pk_surface_treatment_id": 9,
-      "surface_treatment": "PAINT"
-    },
-    {
-      "pk_surface_treatment_id": 10,
-      "surface_treatment": "GRAIN"
+      "surface_treatment": "GRAIN",
+      "is_active": true
     }
   ]
 }
