@@ -6,32 +6,38 @@
     {
       "pk_mold_id": 1,
       "mold_name": "slider",
-      "mold_value": 15000000
+      "mold_value": 15000000,
+      "is_active": true
     },
     {
       "pk_mold_id": 2,
       "mold_name": "keisa_core",
-      "mold_value": 20000000
+      "mold_value": 20000000,
+      "is_active": true
     },
     {
       "pk_mold_id": 3,
       "mold_name": "insert_cav",
-      "mold_value": 10000000
+      "mold_value": 10000000,
+      "is_active": true
     },
     {
       "pk_mold_id": 4,
       "mold_name": "hot_runner",
-      "mold_value": 30000000
+      "mold_value": 30000000,
+      "is_active": true
     },
     {
       "pk_mold_id": 5,
       "mold_name": "valve_gate",
-      "mold_value": 55000000
+      "mold_value": 55000000,
+      "is_active": true
     },
     {
       "pk_mold_id": 6,
       "mold_name": "mold",
-      "mold_value": 1000000
+      "mold_value": 1000000,
+      "is_active": true
     }
   ]
 }
