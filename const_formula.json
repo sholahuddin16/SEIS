@@ -7,6 +7,11 @@
         "pk_const_formula_id": 1,
         "formula_name": "Mold Cost",
         "formula_value": "1.5"
+      },
+      {
+        "pk_const_formula_id": 2,
+        "formula_name": "Summary Mold Cost",
+        "formula_value": "1000"
       }
     ]
 }
