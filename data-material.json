@@ -10,7 +10,8 @@
             "dtsm": "DTSM5608G-1",
             "grade": "X660T",
             "costperkg": 35209,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 2,
@@ -19,7 +20,8 @@
             "dtsm": "DTSM5608G-5AL",
             "grade": "LA880T",
             "costperkg": 36388,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 3,
@@ -28,7 +30,8 @@
             "dtsm": "DTSM5608G-5A",
             "grade": "LA880T",
             "costperkg": 36388,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 4,
@@ -37,7 +40,8 @@
             "dtsm": "DTSM5608G-5L",
             "grade": "LA880T",
             "costperkg": 36388,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 5,
@@ -46,7 +50,8 @@
             "dtsm": "DTSM5608G-5ALS",
             "grade": "LA880T",
             "costperkg": 36388,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 6,
@@ -55,7 +60,8 @@
             "dtsm": "DTSM5608G-5L",
             "grade": "LA880T Nat + MB",
             "costperkg": 28714,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 7,
@@ -64,7 +70,8 @@
             "dtsm": "DTSM5608G-5B",
             "grade": "BR5B1",
             "costperkg": 50454,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 8,
@@ -73,7 +80,8 @@
             "dtsm": "DTSM5608G-7",
             "grade": "TSOP-7",
             "costperkg": 34651,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 9,
@@ -82,7 +90,8 @@
             "dtsm": "DTSM5608G-7",
             "grade": "NEW TSOP-7",
             "costperkg": 26323,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 10,
@@ -91,7 +100,8 @@
             "dtsm": "DTSM5514G-2",
             "grade": "IPC B132AT",
             "costperkg": 27731,
-            "shrinkage": 0.35
+            "shrinkage": 0.35,
+            "is_active": true
         },
         {
             "pk_material_id": 11,
@@ -100,7 +110,8 @@
             "dtsm": "DTSM5514G-2L",
             "grade": "IPC B132AT",
             "costperkg": 27731,
-            "shrinkage": 0.35
+            "shrinkage": 0.35,
+            "is_active": true
         },
         {
             "pk_material_id": 12,
@@ -109,7 +120,8 @@
             "dtsm": "DTSM5514G-3AL",
             "grade": "(PP) CPS188",
             "costperkg": 28789,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 13,
@@ -118,7 +130,8 @@
             "dtsm": "DTSM5514G-3BLS",
             "grade": "(PP) AZ864E4",
             "costperkg": 32832,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 14,
@@ -127,7 +140,8 @@
             "dtsm": "DTSM5514G-3B",
             "grade": "(PP) AZ864E4",
             "costperkg": 32832,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 15,
@@ -136,7 +150,8 @@
             "dtsm": "DTSM5514G-2",
             "grade": "(PP) EXXON AP03 + MB",
             "costperkg": 20561,
-            "shrinkage": 0.45
+            "shrinkage": 0.45,
+            "is_active": true
         },
         {
             "pk_material_id": 16,
@@ -145,7 +160,8 @@
             "dtsm": "DTSM5514G-3AL",
             "grade": "(PP) EXXON P8285 + MB",
             "costperkg": 20561,
-            "shrinkage": 0.35
+            "shrinkage": 0.35,
+            "is_active": true
         },
         {
             "pk_material_id": 17,
@@ -154,7 +170,8 @@
             "dtsm": "DTSM5514G-3AL",
             "grade": "TSOP-7",
             "costperkg": 20561,
-            "shrinkage": 0.35
+            "shrinkage": 0.35,
+            "is_active": true
         }
     ]
 }

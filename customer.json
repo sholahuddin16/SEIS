@@ -6,52 +6,62 @@
     {
       "id": 1,
       "name": "ABC Corporation",
-      "address": "123 Industrial Park, Cityville"
+      "address": "123 Industrial Park, Cityville",
+      "is_active": true
     },
     {
       "id": 2,
       "name": "XYZ Engineering",
-      "address": "456 Engineering Avenue, TechTown"
+      "address": "456 Engineering Avenue, TechTown",
+      "is_active": true
     },
     {
       "id": 3,
       "name": "GreenTech Ltd.",
-      "address": "789 EcoStreet, GreenCity"
+      "address": "789 EcoStreet, GreenCity",
+      "is_active": true
     },
     {
       "id": 4,
       "name": "MegaCon Group",
-      "address": "101 Construction Blvd, BuildTown"
+      "address": "101 Construction Blvd, BuildTown",
+      "is_active": true
     },
     {
       "id": 5,
       "name": "InfraBuild Inc.",
-      "address": "202 Infrastructure Way, StructCity"
+      "address": "202 Infrastructure Way, StructCity",
+      "is_active": true
     },
     {
       "id": 6,
       "name": "EcoBuild Solutions",
-      "address": "303 Sustainable Road, GreenVille"
+      "address": "303 Sustainable Road, GreenVille",
+      "is_active": true
     },
     {
       "id": 7,
       "name": "UrbanPlanners Co.",
-      "address": "404 Urban Lane, PlanCity"
+      "address": "404 Urban Lane, PlanCity",
+      "is_active": true
     },
     {
       "id": 8,
       "name": "Skyline Projects",
-      "address": "505 Skyline Drive, HighRiseTown"
+      "address": "505 Skyline Drive, HighRiseTown",
+      "is_active": true
     },
     {
       "id": 9,
       "name": "SmartGrid Innovations",
-      "address": "606 Grid Circuit, PowerVille"
+      "address": "606 Grid Circuit, PowerVille",
+      "is_active": true
     },
     {
       "id": 10,
       "name": "AquaSystems Ltd.",
-      "address": "707 Waterway, AquaCity"
+      "address": "707 Waterway, AquaCity",
+      "is_active": true
     }
   ]
 }
