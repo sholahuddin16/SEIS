@@ -3,36 +3,41 @@
   "statusCode": 200,
   "message": "Data",
   "responseObject": [
-      {
-        "pk_stage_id": 1,
-        "stage_name": "RFQ-DWG CONDITION",
-        "stage_color": "#8af298"
-      },
-      {
-        "pk_stage_id": 2,
-        "stage_name": "C-DWG",
-        "stage_color": "#f2ef41"
-      },
-      {
-        "pk_stage_id": 3,
-        "stage_name": "F DWG",
-        "stage_color": "#93cfc9"
-      },
-      {
-        "pk_stage_id": 4,
-        "stage_name": "GOSHI",
-        "stage_color": "#b3a598"
-      },
-      {
-        "pk_stage_id": 5,
-        "stage_name": "SOP",
-        "stage_color": "#eda766"
-      },
-      {
-        "pk_stage_id": 6,
-        "stage_name": "GOGUCHI",
-        "stage_color": "#9c4b55"
-      }
-    ]
+    {
+      "pk_stage_id": 1,
+      "stage_name": "RFQ-DWG CONDITION",
+      "stage_color": "#8af298",
+      "is_active": true
+    },
+    {
+      "pk_stage_id": 2,
+      "stage_name": "C-DWG",
+      "stage_color": "#f2ef41",
+      "is_active": true
+    },
+    {
+      "pk_stage_id": 3,
+      "stage_name": "F DWG",
+      "stage_color": "#93cfc9",
+      "is_active": true
+    },
+    {
+      "pk_stage_id": 4,
+      "stage_name": "GOSHI",
+      "stage_color": "#b3a598",
+      "is_active": true
+    },
+    {
+      "pk_stage_id": 5,
+      "stage_name": "SOP",
+      "stage_color": "#eda766",
+      "is_active": true
+    },
+    {
+      "pk_stage_id": 6,
+      "stage_name": "GOGUCHI",
+      "stage_color": "#9c4b55",
+      "is_active": true
+    }
+  ]
 }
-
