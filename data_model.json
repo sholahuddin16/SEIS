@@ -1,47 +1,57 @@
 {
-    "success": true,
-    "statusCode": 200,
-    "message": "Data",
-    "responseObject": [
-        {
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+      {
           "pk_model_id": 1,
-          "model": "Structural Analysis Model"
-        },
-        {
+          "model": "Structural Analysis Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 2,
-          "model": "Energy Efficiency Model"
-        },
-        {
+          "model": "Energy Efficiency Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 3,
-          "model": "Renewable Energy Model"
-        },
-        {
+          "model": "Renewable Energy Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 4,
-          "model": "Traffic Flow Analysis"
-        },
-        {
+          "model": "Traffic Flow Analysis",
+          "is_active": true
+      },
+      {
           "pk_model_id": 5,
-          "model": "Logistics Optimization Model"
-        },
-        {
+          "model": "Logistics Optimization Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 6,
-          "model": "Sustainable Design Model"
-        },
-        {
+          "model": "Sustainable Design Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 7,
-          "model": "Environmental Impact Model"
-        },
-        {
+          "model": "Environmental Impact Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 8,
-          "model": "Structural Stability Model"
-        },
-        {
+          "model": "Structural Stability Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 9,
-          "model": "Grid Performance Model"
-        },
-        {
+          "model": "Grid Performance Model",
+          "is_active": true
+      },
+      {
           "pk_model_id": 10,
-          "model": "Hydraulic Design Model"
-        }
-    ]
+          "model": "Hydraulic Design Model",
+          "is_active": true
+      }
+  ]
 }
