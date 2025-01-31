@@ -5,62 +5,62 @@
   "responseObject": [
     {
       "id": 1,
-      "name": "ABC Corporation",
-      "address": "123 Industrial Park, Cityville",
+      "pk_customer_id": 101,
+      "customer_name": "ABC Corporation",
       "is_active": true
     },
     {
       "id": 2,
-      "name": "XYZ Engineering",
-      "address": "456 Engineering Avenue, TechTown",
+      "pk_customer_id": 102,
+      "customer_name": "XYZ Engineering",
       "is_active": true
     },
     {
       "id": 3,
-      "name": "GreenTech Ltd.",
-      "address": "789 EcoStreet, GreenCity",
+      "pk_customer_id": 103,
+      "customer_name": "GreenTech Ltd.",
       "is_active": true
     },
     {
       "id": 4,
-      "name": "MegaCon Group",
-      "address": "101 Construction Blvd, BuildTown",
+      "pk_customer_id": 104,
+      "customer_name": "MegaCon Group",
       "is_active": true
     },
     {
       "id": 5,
-      "name": "InfraBuild Inc.",
-      "address": "202 Infrastructure Way, StructCity",
+      "pk_customer_id": 105,
+      "customer_name": "InfraBuild Inc.",
       "is_active": true
     },
     {
       "id": 6,
-      "name": "EcoBuild Solutions",
-      "address": "303 Sustainable Road, GreenVille",
+      "pk_customer_id": 106,
+      "customer_name": "EcoBuild Solutions",
       "is_active": true
     },
     {
       "id": 7,
-      "name": "UrbanPlanners Co.",
-      "address": "404 Urban Lane, PlanCity",
+      "pk_customer_id": 107,
+      "customer_name": "UrbanPlanners Co.",
       "is_active": true
     },
     {
       "id": 8,
-      "name": "Skyline Projects",
-      "address": "505 Skyline Drive, HighRiseTown",
+      "pk_customer_id": 108,
+      "customer_name": "Skyline Projects",
       "is_active": true
     },
     {
       "id": 9,
-      "name": "SmartGrid Innovations",
-      "address": "606 Grid Circuit, PowerVille",
+      "pk_customer_id": 109,
+      "customer_name": "SmartGrid Innovations",
       "is_active": true
     },
     {
       "id": 10,
-      "name": "AquaSystems Ltd.",
-      "address": "707 Waterway, AquaCity",
+      "pk_customer_id": 110,
+      "customer_name": "AquaSystems Ltd.",
       "is_active": true
     }
   ]
