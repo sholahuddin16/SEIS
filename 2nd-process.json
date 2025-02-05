@@ -51,7 +51,7 @@
       "pk_process_id": 5,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
-      "process_item": "Ultrasonic Weld Max 3"",
+      "process_item": "Ultrasonic Weld Max 3",
       "process_time": 12,
       "enable_input": false,
       "input_label": "",
