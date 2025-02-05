@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_sub_assy_id": 1,
+      "process_item": "Ultrasonic Weld Max 3",
+      "process_time": 12,
+      "area": false,
+      "is_active": true
+    },
+    {
+      "pk_sub_assy_id": 2,
+      "process_item": "Ultrasonic Weld > 3",
+      "process_time": 25,
+      "area": false,
+      "is_active": true
+    },
+    {
+      "pk_sub_assy_id": 3,
+      "sub_assy": "Take & Setting",
+      "process_time": 5,
+      "area": false,
+      "is_active": true
+    },
+    {
+      "pk_sub_assy_id": 4,
+      "sub_assy": "Assy 2 Part",
+      "process_time": 5,
+      "area": false,
+      "is_active": true
+    },
+    {
+      "pk_sub_assy_id": 5,
+      "sub_assy": "Premer",
+      "process_time": 150,
+      "area": true,
+      "is_active": true
+    }
+  ]
+}
