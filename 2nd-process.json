@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_process_id": 1,
+      "process_name": "Endmil",
+      "cycle_time": true,
+      "is_active": true
+    },
+    {
+      "pk_process_id": 2,
+      "process_name": "Vibration",
+      "cycle_time": true,
+      "is_active": true
+    },
+    {
+      "pk_process_id": 3,
+      "process_name": "Plating",
+      "cycle_time": false,
+      "is_active": true
+    },
+    {
+      "pk_process_id": 4,
+      "process_name": "Paint",
+      "cycle_time": false,
+      "is_active": true
+    }
+  ]
+}
