@@ -9,7 +9,7 @@
       "process_type": "",
       "process_item": "Endmil",
       "process_time": null,
-      "input": true,
+      "enable_input": true,
       "input_label": "Cycle Time Endmil",
       "input_suffix": "sec",
       "is_active": true
@@ -20,7 +20,7 @@
       "process_type": "",
       "process_item": "Vibration",
       "process_time": null,
-      "input": true,
+      "enable_input": true,
       "input_label": "Cycle Time Endmil",
       "input_suffix": "sec",
       "is_active": true
@@ -31,7 +31,7 @@
       "process_type": "",
       "process_item": "Plating",
       "process_time": null,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -42,7 +42,7 @@
       "process_type": "",
       "process_item": "Paint",
       "process_time": null,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -53,7 +53,7 @@
       "process_type": "Sub Assy",
       "process_item": "Ultrasonic Weld Max 3"",
       "process_time": 12,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -64,7 +64,7 @@
       "process_type": "Sub Assy",
       "process_item": "Ultrasonic Weld > 3",
       "process_time": 15,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -75,7 +75,7 @@
       "process_type": "Sub Assy",
       "process_item": "Take & Setting",
       "process_time": 5,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -86,7 +86,7 @@
       "process_type": "Sub Assy",
       "process_item": "Assy 2 Part",
       "process_time": 5,
-      "input": false,
+      "enable_input": false,
       "input_label": "",
       "input_suffix": "",
       "is_active": true
@@ -97,7 +97,7 @@
       "process_type": "Sub Assy",
       "process_item": "Premer",
       "process_time": 150,
-      "input": true,
+      "enable_input": true,
       "input_label": "Area",
       "input_suffix": "mm²",
       "is_active": true
