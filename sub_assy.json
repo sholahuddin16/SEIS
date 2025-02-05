@@ -19,21 +19,21 @@
     },
     {
       "pk_sub_assy_id": 3,
-      "sub_assy": "Take & Setting",
+      "process_item": "Take & Setting",
       "process_time": 5,
       "area": false,
       "is_active": true
     },
     {
       "pk_sub_assy_id": 4,
-      "sub_assy": "Assy 2 Part",
+      "process_item": "Assy 2 Part",
       "process_time": 5,
       "area": false,
       "is_active": true
     },
     {
       "pk_sub_assy_id": 5,
-      "sub_assy": "Premer",
+      "process_item": "Premer",
       "process_time": 150,
       "area": true,
       "is_active": true
