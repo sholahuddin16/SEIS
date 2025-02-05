@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "is_active": true
+    }
+  ]
+}
