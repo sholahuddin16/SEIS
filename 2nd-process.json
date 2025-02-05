@@ -5,25 +5,25 @@
   "responseObject": [
     {
       "pk_process_id": 1,
-      "process_name": "Endmil",
+      "process_item": "Endmil",
       "cycle_time": true,
       "is_active": true
     },
     {
       "pk_process_id": 2,
-      "process_name": "Vibration",
+      "process_item": "Vibration",
       "cycle_time": true,
       "is_active": true
     },
     {
       "pk_process_id": 3,
-      "process_name": "Plating",
+      "process_item": "Plating",
       "cycle_time": false,
       "is_active": true
     },
     {
       "pk_process_id": 4,
-      "process_name": "Paint",
+      "process_item": "Paint",
       "cycle_time": false,
       "is_active": true
     }
