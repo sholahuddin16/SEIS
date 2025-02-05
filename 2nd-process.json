@@ -21,7 +21,7 @@
       "process_item": "Vibration",
       "process_time": null,
       "enable_input": true,
-      "input_label": "Cycle Time Endmil",
+      "input_label": "Cycle Time Vibration",
       "input_suffix": "sec",
       "is_active": true
     },
