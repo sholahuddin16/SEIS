@@ -5,26 +5,101 @@
   "responseObject": [
     {
       "pk_process_id": 1,
+      "fk_process_type_id": 0,
+      "process_type": "",
       "process_item": "Endmil",
-      "cycle_time": true,
+      "process_time": null,
+      "input": true,
+      "input_label": "Cycle Time Endmil",
+      "input_suffix": "sec",
       "is_active": true
     },
     {
       "pk_process_id": 2,
+      "fk_process_type_id": 0,
+      "process_type": "",
       "process_item": "Vibration",
-      "cycle_time": true,
+      "process_time": null,
+      "input": true,
+      "input_label": "Cycle Time Endmil",
+      "input_suffix": "sec",
       "is_active": true
     },
     {
       "pk_process_id": 3,
+      "fk_process_type_id": 0,
+      "process_type": "",
       "process_item": "Plating",
-      "cycle_time": false,
+      "process_time": null,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
       "is_active": true
     },
     {
       "pk_process_id": 4,
+      "fk_process_type_id": 0,
+      "process_type": "",
       "process_item": "Paint",
-      "cycle_time": false,
+      "process_time": null,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
+      "is_active": true
+    },
+    {
+      "pk_process_id": 5,
+      "fk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "process_item": "Ultrasonic Weld Max 3"",
+      "process_time": 12,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
+      "is_active": true
+    },
+    {
+      "pk_process_id": 6,
+      "fk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "process_item": "Ultrasonic Weld > 3",
+      "process_time": 15,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
+      "is_active": true
+    },
+    {
+      "pk_process_id": 7,
+      "fk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "process_item": "Take & Setting",
+      "process_time": 5,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
+      "is_active": true
+    },
+    {
+      "pk_process_id": 8,
+      "fk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "process_item": "Assy 2 Part",
+      "process_time": 5,
+      "input": false,
+      "input_label": "",
+      "input_suffix": "",
+      "is_active": true
+    },
+    {
+      "pk_process_id": 9,
+      "fk_process_type_id": 1,
+      "process_type": "Sub Assy",
+      "process_item": "Premer",
+      "process_time": 150,
+      "input": true,
+      "input_label": "Area",
+      "input_suffix": "mm²",
       "is_active": true
     }
   ]
