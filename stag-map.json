@@ -14,7 +14,7 @@
       "pk_stage_map_id": 2,
       "customer_name": "GreenTech Ltd.",
       "stage_name": "C-DWG",
-      "stage_color": 2,
+      "sequence": 2,
       "is_active": true
     },
     {
