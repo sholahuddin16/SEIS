@@ -66,6 +66,7 @@
             "grade": "LA880T Nat + MB",
             "costperkg": 28714,
             "shrinkage": 0.45,
+            "color": "0010",
             "is_active": true
         },
         {
