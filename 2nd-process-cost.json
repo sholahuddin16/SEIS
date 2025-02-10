@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_process_cost_id": 1,
+      "fk_process_id": 1,
+      "process_item": "Endmil",
+      "process_cost": 1440,
+      "is_active": true
+    },
+    {
+      "pk_process_cost_id": 2,
+      "fk_process_id": 2,
+      "process_item": "Vibration",
+      "process_cost": 2172,
+      "is_active": true
+    },
+    {
+      "pk_process_cost_id": 3,
+      "fk_process_id": 3,
+      "process_item": "Plating",
+      "process_cost": 6044,
+      "is_active": true
+    }
+  ]
+}
