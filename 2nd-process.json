@@ -38,17 +38,6 @@
     },
     {
       "pk_process_id": 4,
-      "fk_process_type_id": 0,
-      "process_type": "",
-      "process_item": "Paint",
-      "process_time": null,
-      "enable_input": false,
-      "input_label": "",
-      "input_suffix": "",
-      "is_active": true
-    },
-    {
-      "pk_process_id": 5,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
       "process_item": "Ultrasonic Weld Max 3",
@@ -59,7 +48,7 @@
       "is_active": true
     },
     {
-      "pk_process_id": 6,
+      "pk_process_id": 5,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
       "process_item": "Ultrasonic Weld > 3",
@@ -70,7 +59,7 @@
       "is_active": true
     },
     {
-      "pk_process_id": 7,
+      "pk_process_id": 6,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
       "process_item": "Take & Setting",
@@ -81,7 +70,7 @@
       "is_active": true
     },
     {
-      "pk_process_id": 8,
+      "pk_process_id": 7,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
       "process_item": "Assy 2 Part",
@@ -92,7 +81,7 @@
       "is_active": true
     },
     {
-      "pk_process_id": 9,
+      "pk_process_id": 8,
       "fk_process_type_id": 1,
       "process_type": "Sub Assy",
       "process_item": "Premer",
