@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_stage_map_id": 1,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "RFQ-DWG CONDITION",
+      "sequence": 1,
+      "is_active": true
+    },
+    {
+      "pk_stage_map_id": 2,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "C-DWG",
+      "stage_color": 2,
+      "is_active": true
+    },
+    {
+      "pk_stage_map_id": 3,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "F DWG",
+      "sequence": 3,
+      "is_active": true
+    },
+    {
+      "pk_stage_map_id": 4,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "GOSHI",
+      "sequence": 4,
+      "is_active": true
+    },
+    {
+      "pk_stage_map_id": 5,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "SOP",
+      "sequence": 5,
+      "is_active": true
+    },
+    {
+      "pk_stage_map_id": 6,
+      "customer_name": "GreenTech Ltd.",
+      "stage_name": "GOGUCHI",
+      "sequence": 6,
+      "is_active": true
+    }
+  ]
+}
