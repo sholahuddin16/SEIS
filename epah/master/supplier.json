@@ -1,0 +1,62 @@
+[
+  {
+    "pk_company_id": 1,
+    "company_name": "PT.SYSTECH INDONESIA",
+    "code": "13953",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 2,
+    "company_name": "PT.KISCO INDONESIA",
+    "code": "13999",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 3,
+    "company_name": "PT NITTO MATERIALS",
+    "code": "16030",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 4,
+    "company_name": "PT.GLOBAL SHINSEI INDONESIA",
+    "code": "16150",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 5,
+    "company_name": "PT.SANWA ENGINEERING",
+    "code": "16172",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 6,
+    "company_name": "PT.IMC TEKNO INDONESIA",
+    "code": "16189",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 7,
+    "company_name": "PT GESIA CIPTA BUANA",
+    "code": "16958",
+    "contact_person": "asri"
+  },
+  {
+    "pk_company_id": 8,
+    "company_name": "PT.MULTITARA",
+    "code": "16257",
+    "contact_person": "fella"
+  },
+  {
+    "pk_company_id": 9,
+    "company_name": "PT.AONO PACK INDONESIA",
+    "code": "16263",
+    "contact_person": "fella"
+  },
+  {
+    "pk_company_id": 10,
+    "company_name": "PT.ANT PATRIOT",
+    "code": "16270",
+    "contact_person": "fella"
+  }
+]

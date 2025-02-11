@@ -1,0 +1,62 @@
+[
+  {
+    "pk_product_id": 1,
+    "product_name": "XFL-2LPP-068KU5TS-A143.3A",
+    "code": "321-0130-0 02",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 2,
+    "product_name": "X.FL-2LPP-068KU5TS-A-133A",
+    "code": "321-0130-0 03",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 3,
+    "product_name": "XFL-2LPP-068KU1TS-A143.3A",
+    "code": "321-0131-0 01",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 4,
+    "product_name": "X.FL-2LPP-068KU1TS-A-165A",
+    "code": "321-0131-0 02",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 5,
+    "product_name": "XFL-2LP9-044N1TSAC179.8HT",
+    "code": "321-0151-0 02",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 6,
+    "product_name": "XFL-2LP9-044N1TS-AC171HT",
+    "code": "321-0151-0 03",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 7,
+    "product_name": "XFL-2LP9-044N2TSAC153.8HT",
+    "code": "321-0152-0 02",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 8,
+    "product_name": "XFL-2LP9-044N2TS-AC200HT",
+    "code": "321-0152-0 03",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 9,
+    "product_name": "X.FL-2LPP-068K4TS-A-34A",
+    "code": "321-0170-0 21",
+    "department": "Assembly HRS"
+  },
+  {
+    "pk_product_id": 10,
+    "product_name": "XFL-2LP9-044N1TS-A32HT",
+    "code": "321-0251-0 01",
+    "department": "Assembly HRS"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pk_component_id": 1,
+    "component_name": "RM12-6P REAR INSERT",
+    "component_number": "118419-0-11 41",
+    "supplier": "Ichinoseki HRS (ROD(R) Dept)"
+  },
+  {
+    "pk_component_id": 2,
+    "component_name": "BH5AWR-4PA WATERPROOF PACKING 1",
+    "component_number": "118468-0-11 41",
+    "supplier": "Ichinoseki HRS (ROD(R) Dept)"
+  },
+  {
+    "pk_component_id": 3,
+    "component_name": "LEAD FREE SOLDER PASTE",
+    "component_number": "098805-6-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 4,
+    "component_name": "FH27-54S-0.4SH EMBOSSED CARRIER TAPE",
+    "component_number": "153658-6-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 5,
+    "component_name": "FH30-80S EMBOSSED CARRIER TAPE",
+    "component_number": "153707-0-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 6,
+    "component_name": "FH27-SH METAL FITTING(R)(L)",
+    "component_number": "153816-8-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 7,
+    "component_name": "FH27-SH METAL FITTING (R)(L)-1",
+    "component_number": "153955-1-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 8,
+    "component_name": "FH30-80S-0.3 HOUSING(2)",
+    "component_number": "154178-2-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 9,
+    "component_name": "FH30-80S-0.3SHW ACTUATOR(2)",
+    "component_number": "154179-7-11 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  },
+  {
+    "pk_component_id": 10,
+    "component_name": "FH27 SH CONTACT(1)",
+    "component_number": "154698-5-13 41",
+    "supplier": "Tohoku HRS (NC Dept)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "pk_user_id": 1,
+    "username": "isma",
+    "email": "isma.cinta.8q@hirose-gl.com",
+    "roles": ["QUALITY", "ISSUER", "ADMIN"],
+    "department": "Quality Control",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 2,
+    "username": "qcstaff",
+    "email": "mridlwan10@gmail.com",
+    "roles": ["QUALITY"],
+    "department": "Quality Control",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 3,
+    "username": "jofri.andi",
+    "email": "jofri.andi.7a@hirose-gl.com",
+    "roles": ["INTERNAL_SUPPLY"],
+    "department": "Assembly HRS",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 4,
+    "username": "didah",
+    "email": "didahkholidah27@gmail.com",
+    "roles": ["ISSUER"],
+    "department": "Assembly SYSTECH",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 5,
+    "username": "admin-data",
+    "email": "johndoe@example.com",
+    "roles": ["ADMIN", "PURCHASING"],
+    "department": "Purchasing",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 6,
+    "username": "haryanih",
+    "email": "haryanih.idn.7h@hirose-gl.com",
+    "roles": ["ISSUER", "INTERNAL_SUPPLY"],
+    "department": "Assembly HRS",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 7,
+    "username": "cokro.pratomo",
+    "email": "cokro.pratomo.3b@hirose-gl.com",
+    "roles": ["ISSUER"],
+    "department": "Production Control",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 8,
+    "username": "tety.uci",
+    "email": "tety.uci.4r@hirose-gl.com",
+    "roles": ["ISSUER", "INTERNAL_SUPPLY"],
+    "department": "Assembly HRS",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 9,
+    "username": "syarif",
+    "email": "ahmad.syarif.7x@hirose-gl.com",
+    "roles": ["PURCHASING"],
+    "department": "Purchasing",
+    "status": "Active"
+  },
+  {
+    "pk_user_id": 10,
+    "username": "nirmala",
+    "email": "nirmala.sari.9d@hirose-gl.com",
+    "roles": ["PURCHASING"],
+    "department": "Purchasing",
+    "status": "Active"
+  }
+]

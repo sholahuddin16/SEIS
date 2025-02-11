@@ -1,0 +1,62 @@
+[
+  {
+    "pk_division_id": 1,
+    "division_name": "Purchasing",
+    "type": "INTERNAL",
+    "code": "PUR"
+  },
+  {
+    "pk_division_id": 2,
+    "division_name": "Quality Control",
+    "type": "INTERNAL",
+    "code": "QC"
+  },
+  {
+    "pk_division_id": 3,
+    "division_name": "Production Control",
+    "type": "INTERNAL",
+    "code": "PC"
+  },
+  {
+    "pk_division_id": 4,
+    "division_name": "Assembly Reinspect",
+    "type": "INTERNAL",
+    "code": "RE"
+  },
+  {
+    "pk_division_id": 5,
+    "division_name": "Part Manufacturing Plating",
+    "type": "INTERNAL",
+    "code": "PLA"
+  },
+  {
+    "pk_division_id": 6,
+    "division_name": "Part Manufacturing Molding",
+    "type": "INTERNAL",
+    "code": "MOL"
+  },
+  {
+    "pk_division_id": 7,
+    "division_name": "Part Manufacturing Stamping",
+    "type": "INTERNAL",
+    "code": "STA"
+  },
+  {
+    "pk_division_id": 8,
+    "division_name": "Part Manufacturing Forming",
+    "type": "INTERNAL",
+    "code": "FOR"
+  },
+  {
+    "pk_division_id": 9,
+    "division_name": "Assembly HRS",
+    "type": "INTERNAL",
+    "code": "AL"
+  },
+  {
+    "pk_division_id": 10,
+    "division_name": "Assembly SGP",
+    "type": "EXTERNAL",
+    "code": "SGP"
+  }
+]

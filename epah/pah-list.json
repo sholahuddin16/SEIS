@@ -1,0 +1,58 @@
+[
+  {
+    "pk_request_id": 1,
+    "request_code": "PAH-MOL-25-39",
+    "request_date": "2025-02-06",
+    "category": "COMPONENT",
+    "issuer": "issuer_fika",
+    "status": "DONE"
+  },
+  {
+    "pk_request_id": 2,
+    "request_code": "PAH-PC-25-38",
+    "request_date": "2025-02-06",
+    "category": "COMPONENT",
+    "issuer": "issuermgr",
+    "status": "DONE"
+  },
+  {
+    "pk_request_id": 3,
+    "request_code": "PAH-PC-25-36",
+    "request_date": "2025-02-05",
+    "category": "COMPONENT",
+    "issuer": "issuer",
+    "status": "Waiting Manager Purchasing Approval (2)"
+  },
+  {
+    "pk_request_id": 4,
+    "request_code": "PAH-PC-25-35",
+    "request_date": "2025-02-05",
+    "category": "COMPONENT",
+    "issuer": "issuer",
+    "status": "DONE"
+  },
+  {
+    "pk_request_id": 5,
+    "request_code": "PAH-PC-25-34",
+    "request_date": "2025-01-31",
+    "category": "COMPONENT",
+    "issuer": "issuer",
+    "status": "DONE"
+  },
+  {
+    "pk_request_id": 6,
+    "request_code": "PAH-PC-25-33",
+    "request_date": "2025-01-27",
+    "category": "COMPONENT",
+    "issuer": "issuer",
+    "status": "DONE"
+  },
+  {
+    "pk_request_id": 7,
+    "request_code": "PAH-PC-25-13",
+    "request_date": "2025-01-21",
+    "category": "COMPONENT",
+    "issuer": "issuer",
+    "status": "Waiting Manager Purchasing Approval (2)"
+  }
+]
