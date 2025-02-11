@@ -1,57 +1,57 @@
 [
   {
-    "pk_request_id": 1,
-    "request_code": "PAH-MOL-25-39",
-    "request_date": "2025-02-06",
-    "category": "COMPONENT",
+    "pk_issue_id": 1,
+    "issue_no": "PAH-MOL-25-39",
+    "date": "2025-02-06",
+    "type": "COMPONENT",
     "issuer": "issuer_fika",
     "status": "DONE"
   },
   {
-    "pk_request_id": 2,
-    "request_code": "PAH-PC-25-38",
-    "request_date": "2025-02-06",
-    "category": "COMPONENT",
+    "pk_issue_id": 2,
+    "issue_no": "PAH-PC-25-38",
+    "date": "2025-02-06",
+    "type": "COMPONENT",
     "issuer": "issuermgr",
     "status": "DONE"
   },
   {
-    "pk_request_id": 3,
-    "request_code": "PAH-PC-25-36",
-    "request_date": "2025-02-05",
-    "category": "COMPONENT",
+    "pk_issue_id": 3,
+    "issue_no": "PAH-PC-25-36",
+    "date": "2025-02-05",
+    "type": "COMPONENT",
     "issuer": "issuer",
     "status": "Waiting Manager Purchasing Approval (2)"
   },
   {
-    "pk_request_id": 4,
-    "request_code": "PAH-PC-25-35",
-    "request_date": "2025-02-05",
-    "category": "COMPONENT",
+    "pk_issue_id": 4,
+    "issue_no": "PAH-PC-25-35",
+    "date": "2025-02-05",
+    "type": "COMPONENT",
     "issuer": "issuer",
     "status": "DONE"
   },
   {
-    "pk_request_id": 5,
-    "request_code": "PAH-PC-25-34",
-    "request_date": "2025-01-31",
-    "category": "COMPONENT",
+    "pk_issue_id": 5,
+    "issue_no": "PAH-PC-25-34",
+    "date": "2025-01-31",
+    "type": "COMPONENT",
     "issuer": "issuer",
     "status": "DONE"
   },
   {
-    "pk_request_id": 6,
-    "request_code": "PAH-PC-25-33",
-    "request_date": "2025-01-27",
-    "category": "COMPONENT",
+    "pk_issue_id": 6,
+    "issue_no": "PAH-PC-25-33",
+    "date": "2025-01-27",
+    "type": "COMPONENT",
     "issuer": "issuer",
     "status": "DONE"
   },
   {
-    "pk_request_id": 7,
-    "request_code": "PAH-PC-25-13",
-    "request_date": "2025-01-21",
-    "category": "COMPONENT",
+    "pk_issue_id": 7,
+    "issue_no": "PAH-PC-25-13",
+    "date": "2025-01-21",
+    "type": "COMPONENT",
     "issuer": "issuer",
     "status": "Waiting Manager Purchasing Approval (2)"
   }
