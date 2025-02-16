@@ -38,12 +38,6 @@
       "mold_name": "mold",
       "mold_value": 1000000,
       "is_active": true
-    },
-    {
-      "pk_mold_id": 7,
-      "mold_name": "gambar",
-      "mold_value": 1000000,
-      "is_active": true
     }
   ]
 }
