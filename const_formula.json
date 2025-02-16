@@ -14,6 +14,12 @@
       "formula_name": "Summary Mold Cost",
       "formula_value": "1000",
       "is_active": true
+    },
+    {
+      "pk_const_formula_id": 3,
+      "formula_name": "Area",
+      "formula_value": 1.15,
+      "is_active": true
     }
   ]
 }
