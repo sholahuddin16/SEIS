@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "colors": [
+    {
+      "pk_master_color": 1,
+      "color_code": "CD Primer",
+      "color_name": "PRIMER"
+    },
+    {
+      "pk_master_color": 2,
+      "color_code": "1G3 - ADM",
+      "color_name": "TOP COAT (Color 1)"
+    },
+    {
+      "pk_master_color": 3,
+      "color_code": "3P0 - RED",
+      "color_name": "TOP COAT (Color 2)"
+    },
+    {
+      "pk_master_color": 4,
+      "color_code": "8S6 - BLUE",
+      "color_name": "TOP COAT (Color 3)"
+    },
+    {
+      "pk_master_color": 5,
+      "color_code": "040 - WHITE",
+      "color_name": "TOP COAT (Color 4)"
+    }
+  ]
+}
