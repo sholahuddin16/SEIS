@@ -2,7 +2,7 @@
   "success": true,
   "statusCode": 200,
   "message": "Data",
-  "colors": [
+  "responseObject": [
     {
       "pk_master_color": 1,
       "color_code": "CD Primer",
