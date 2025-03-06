@@ -4,22 +4,22 @@
   "message": "Data",
   "responseObject": [
     {
-      "pk_master_packing": 1,
+      "pk_master_packing_id": 1,
       "part_no": "41991-BZ260",
       "part_name": "LABEL, CAUTION"
     },
     {
-      "pk_master_packing": 2,
+      "pk_master_packing_id": 2,
       "part_no": "52721-BZ901",
       "part_name": "MOULDING, FR BUMPER EXTENSION, RH"
     },
     {
-      "pk_master_packing": 3,
+      "pk_master_packing_id": 3,
       "part_no": "52722-BZ110",
       "part_name": "MOULDING, FR BUMPER EXTENSION, LH"
     },
     {
-      "pk_master_packing": 4,
+      "pk_master_packing_id": 4,
       "part_no": "55412-BZC90-C0",
       "part_name": "PANEL, INSTRUMENT CSTR FINISH, CTR NO. 1 - RHD (RH)"
     }
