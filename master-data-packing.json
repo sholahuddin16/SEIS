@@ -5,23 +5,27 @@
   "responseObject": [
     {
       "pk_master_packing_id": 1,
-      "part_no": "41991-BZ260",
-      "part_name": "LABEL, CAUTION"
+      "item": "PLASTIC BLUE BAG"
     },
     {
       "pk_master_packing_id": 2,
-      "part_no": "52721-BZ901",
-      "part_name": "MOULDING, FR BUMPER EXTENSION, RH"
+      "item": "PLASTIC BLUE BAG"
     },
     {
       "pk_master_packing_id": 3,
-      "part_no": "52722-BZ110",
-      "part_name": "MOULDING, FR BUMPER EXTENSION, LH"
+      "item": "PLASTIC BLUE BAG"
     },
     {
       "pk_master_packing_id": 4,
-      "part_no": "55412-BZC90-C0",
-      "part_name": "PANEL, INSTRUMENT CSTR FINISH, CTR NO. 1 - RHD (RH)"
+      "item": "PLASTIC BLUE BAG"
+    },
+    {
+      "pk_master_packing_id": 5,
+      "item": "POLYFOAM MT-PCK0062"
+    },
+    {
+      "pk_master_packing_id": 6,
+      "item": "OPP TAPE"
     }
   ]
 }
