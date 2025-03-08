@@ -7,54 +7,72 @@
       "pk_master_color_id": 1,
       "color_code": "CD001",
       "color_name": "CD PRIMER",
+      "pk_paint_layer_id": 1,
+      "paint_layer": "PRIMER",
       "thickness_set": 10
     },
     {
       "pk_master_color_id": 2,
       "color_code": "JL001",
       "color_name": "JUNIOR LIGHT",
+      "pk_paint_layer_id": 1,
+      "paint_layer": "PRIMER",
       "thickness_set": 17
     },
     {
       "pk_master_color_id": 3,
       "color_code": "CB001",
       "color_name": "089 COLOR BASE",
+      "pk_paint_layer_id": 1,
+      "paint_layer": "PRIMER",
       "thickness_set": 27
     },
     {
       "pk_master_color_id": 4,
       "color_code": "B040",
       "color_name": "040",
+      "pk_paint_layer_id": 2,
+      "paint_layer": "BASE",
       "thickness_set": 17
     },
     {
       "pk_master_color_id": 5,
       "color_code": "B1G3A",
       "color_name": "1G3",
+      "pk_paint_layer_id": 2,
+      "paint_layer": "BASE",
       "thickness_set": 17
     },
     {
       "pk_master_color_id": 6,
       "color_code": "B089",
       "color_name": "089 MICA BASE",
+      "pk_paint_layer_id": 2,
+      "paint_layer": "BASE",
       "thickness_set": 17
     },
     {
       "pk_master_color_id": 7,
       "color_code": "C001",
       "color_name": "CLEAR",
+      "pk_paint_layer_id": 3,
+      "paint_layer": "CLEAR",
       "thickness_set": 25
     },
     {
       "pk_master_color_id": 8,
       "color_code": "T001",
       "color_name": "THINNER",
+      "pk_paint_layer_id": 4,
+      "paint_layer": "THINNER",
       "thickness_set": null
     },
     {
       "pk_master_color_id": 9,
       "color_code": "H001",
       "color_name": "HARDENER",
+      "pk_paint_layer_id": 5,
+      "paint_layer": "HARDENER",
       "thickness_set": null
     }
   ]  
