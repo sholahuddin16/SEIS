@@ -254,6 +254,48 @@
         "undiluted_nv": null,
         "mix_ratio": 100,
         "unit_cost": 1.75
+      },
+      {
+        "pk_material_color_id": 19,
+        "color_code": "C002",
+        "color_name": "CLEAR",
+        "pk_paint_layer_id": 3,
+        "paint_layer": "CLEAR",
+        "material_name": "SFX 5550K CLEAR",
+        "paint_maker": "NPI",
+        "thickness_set": 25,
+        "gravity": 1.13,
+        "undiluted_nv": 47,
+        "mix_ratio": 60,
+        "unit_cost": 4.88
+      },
+      {
+        "pk_material_color_id": 20,
+        "color_code": "C002",
+        "color_name": "CLEAR",
+        "pk_paint_layer_id": 4,
+        "paint_layer": "THINNER",
+        "material_name": "RETAN PG",
+        "paint_maker": "NPI",
+        "thickness_set": 25,
+        "gravity": 0.88,
+        "undiluted_nv": null,
+        "mix_ratio": 40,
+        "unit_cost": 2.00
+      },
+      {
+        "pk_material_color_id": 21,
+        "color_code": "C002",
+        "color_name": "CLEAR",
+        "pk_paint_layer_id": 5,
+        "paint_layer": "HARDENER",
+        "material_name": "SFX 5550K HARD",
+        "paint_maker": "NPI",
+        "thickness_set": 25,
+        "gravity": null,
+        "undiluted_nv": null,
+        "mix_ratio": 10,
+        "unit_cost": 13.00
       }
     ]  
   }
