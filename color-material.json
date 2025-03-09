@@ -226,6 +226,34 @@
         "undiluted_nv": 74.5,
         "mix_ratio": 33.33,
         "unit_cost": 11.76
+      },
+      {
+        "pk_material_color_id": 17,
+        "color_code": "CD002",
+        "color_name": "CD PRIMER",
+        "pk_paint_layer_id": 1,
+        "paint_layer": "PRIMER",
+        "material_name": "SFX 3210",
+        "paint_maker": "KPI",
+        "thickness_set": 10,
+        "gravity": 1.35,
+        "undiluted_nv": 30.0,
+        "mix_ratio": 100,
+        "unit_cost": 6.8
+      },
+      {
+        "pk_material_color_id": 17,
+        "color_code": "T003",
+        "color_name": "THINNER",
+        "pk_paint_layer_id": 4,
+        "paint_layer": "THINNER",
+        "material_name": "SFX 3210 THINNAER",
+        "paint_maker": "NPI",
+        "thickness_set": 10,
+        "gravity": 0.88,
+        "undiluted_nv": null,
+        "mix_ratio": 100,
+        "unit_cost": 1.75
       }
     ]  
   }
