@@ -242,7 +242,7 @@
         "unit_cost": 6.8
       },
       {
-        "pk_material_color_id": 17,
+        "pk_material_color_id": 18,
         "color_code": "T003",
         "color_name": "THINNER",
         "pk_paint_layer_id": 4,
