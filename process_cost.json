@@ -21,7 +21,7 @@
       {
         "pk_process_cost_id": 4,
         "process_name": "Cost Masking + Cleaning",
-        "price": 4000
+        "price": 0
       }
     ]  
   }
