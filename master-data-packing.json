@@ -5,27 +5,21 @@
   "responseObject": [
     {
       "pk_master_packing_id": 1,
-      "item": "PLASTIC BLUE BAG"
+      "item": "PLASTIC BLUE BAG",
+      "dimention": "200 X 100 X 0.05 (5gr)",
+      "prize": "30500/Kg"
     },
     {
       "pk_master_packing_id": 2,
-      "item": "PLASTIC BLUE BAG"
+      "item": "POLYFOAM MT-PCK0062",
+      "dimention": "300 X 115 X 1",
+      "prize": "2300/Bag"
     },
     {
       "pk_master_packing_id": 3,
-      "item": "PLASTIC BLUE BAG"
-    },
-    {
-      "pk_master_packing_id": 4,
-      "item": "PLASTIC BLUE BAG"
-    },
-    {
-      "pk_master_packing_id": 5,
-      "item": "POLYFOAM MT-PCK0062"
-    },
-    {
-      "pk_master_packing_id": 6,
-      "item": "OPP TAPE"
+      "item": "OPP TAPE",
+      "dimention": "2 INCHI",
+      "prize": "15000/30Mtr"
     }
   ]
 }
