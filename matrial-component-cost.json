@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Data",
+    "responseObject": [
+      {
+        "pk_matrial_cost_id": 1,
+        "matrial_name": "Masking Nichiban",
+        "price": 5000
+      },
+      {
+        "pk_matrial_cost_id": 2,
+        "matrial_name": "Paper + Double Tape",
+        "price": 1000
+      },
+      {
+        "pk_matrial_cost_id": 3,
+        "matrial_name": "Sticker",
+        "price": 2000
+      },
+      {
+        "pk_matrial_cost_id": 4,
+        "matrial_name": "Kertas",
+        "price": 4000
+      }
+    ]  
+  }
