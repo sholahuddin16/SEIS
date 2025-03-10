@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Data",
+    "responseObject": [
+      {
+        "pk_process_cost_id": 1,
+        "process_name": "Cost/Dolly or C/T",
+        "price": 221074
+      },
+      {
+        "pk_process_cost_id": 2,
+        "process_name": "Qty/jig",
+        "price": 1
+      },
+      {
+        "pk_process_cost_id": 3,
+        "process_name": "Cost/jig",
+        "price": 4000
+      },
+      {
+        "pk_process_cost_id": 4,
+        "process_name": "Masking + Cleaning",
+        "price": 1440
+      },
+      {
+        "pk_process_cost_id": 5,
+        "process_name": "Cost Masking + Cleaning",
+        "price": 4000
+      }
+    ]  
+  }

@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "message": "Data",
+    "responseObject": [
+      {
+        "pk_investment_cost_id": 1,
+        "investment_name": "Painting Jig",
+        "price": 3500000		
+      },
+      {
+        "pk_investment_cost_id": 2,
+        "investment_name": "Jig Rack",
+        "price": 4500000		
+      },
+      {
+        "pk_investment_cost_id": 3,
+        "investment_name": "Cooling Rack",
+        "price": 2500000		
+      },
+      {
+        "pk_investment_cost_id": 4,
+        "investment_name": "Spray Gun + Pump",
+        "price": 5000000
+      },
+      {
+        "pk_investment_cost_id": 5,
+        "investment_name": "Masking Jig",
+        "price": 30000000 		
+      }
+    ]  
+  }
