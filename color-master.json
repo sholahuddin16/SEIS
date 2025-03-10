@@ -76,9 +76,17 @@
       "thickness_set": null
     },
     {
-      "pk_master_color_id": 9,
+      "pk_master_color_id": 10,
       "color_code": "1G3",
       "color_name": "1G3 - ADM",
+      "pk_paint_layer_id": 2,
+      "paint_layer": "BASE",
+      "thickness_set": 20
+    },
+    {
+      "pk_master_color_id": 11,
+      "color_code": "1G32",
+      "color_name": "1G32 - ADM",
       "pk_paint_layer_id": 2,
       "paint_layer": "BASE",
       "thickness_set": 20
