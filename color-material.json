@@ -296,6 +296,20 @@
         "undiluted_nv": null,
         "mix_ratio": 10,
         "unit_cost": 13.00
+      },
+      {
+        "pk_material_color_id": 22,
+        "color_code": "C002",
+        "color_name": "BASE",
+        "pk_paint_layer_id": 1,
+        "paint_layer": "PRIMER",
+        "material_name": "SFX 650K",
+        "paint_maker": "NPI",
+        "thickness_set": 25,
+        "gravity": 1.16,
+        "undiluted_nv": 37,
+        "mix_ratio": 100,
+        "unit_cost": 8.98
       }
     ]  
   }
