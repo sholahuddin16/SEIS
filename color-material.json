@@ -275,7 +275,7 @@
         "color_name": "CLEAR",
         "pk_paint_layer_id": 4,
         "paint_layer": "THINNER",
-        "material_name": "RETAN PG",
+        "material_name": "RETAN PG Clear",
         "paint_maker": "NPI",
         "thickness_set": 25,
         "gravity": 0.88,
@@ -310,6 +310,20 @@
         "undiluted_nv": 37,
         "mix_ratio": 100,
         "unit_cost": 8.98
+      },
+      {
+        "pk_material_color_id": 23,
+        "color_code": "B040",
+        "color_name": "BASE",
+        "pk_paint_layer_id": 4,
+        "paint_layer": "THINNER",
+        "material_name": "RETAN PG Base",
+        "paint_maker": "NPI",
+        "thickness_set": 25,
+        "gravity": 0.88,
+        "undiluted_nv": null,
+        "mix_ratio": 80,
+        "unit_cost": 2.00
       }
     ]  
   }
