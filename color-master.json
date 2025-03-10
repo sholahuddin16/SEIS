@@ -74,6 +74,14 @@
       "pk_paint_layer_id": 5,
       "paint_layer": "HARDENER",
       "thickness_set": null
+    },
+    {
+      "pk_master_color_id": 9,
+      "color_code": "1G3",
+      "color_name": "1G3 - ADM",
+      "pk_paint_layer_id": 2,
+      "paint_layer": "BASE",
+      "thickness_set": 20
     }
   ]  
 }
