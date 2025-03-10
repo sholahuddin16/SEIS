@@ -7,19 +7,22 @@
       "pk_master_packing_id": 1,
       "item": "PLASTIC BLUE BAG",
       "dimention": "200 X 100 X 0.05 (5gr)",
-      "prize": "30500/Kg"
+      "prize": 30500,
+      "prize_unit": "Kg"
     },
     {
       "pk_master_packing_id": 2,
       "item": "POLYFOAM MT-PCK0062",
       "dimention": "300 X 115 X 1",
-      "prize": "2300/Bag"
+      "prize": 2300,
+      "prize_unit": "Bag"
     },
     {
       "pk_master_packing_id": 3,
       "item": "OPP TAPE",
       "dimention": "2 INCHI",
-      "prize": "15000/30Mtr"
+      "prize": 15000,
+      "prize_unit": "30Mtr"
     }
   ]
 }
