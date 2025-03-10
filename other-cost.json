@@ -1,0 +1,20 @@
+[
+  {
+    "pk_other_cost_id": 1,
+    "item": "M/C Press",
+    "cycle_time_per_pcs": 10,
+    "activities": 2
+  },
+  {
+    "pk_other_cost_id": 2,
+    "item": "M/C Press",
+    "cycle_time_per_pcs": 10,
+    "activities": 2
+  },
+  {
+    "pk_other_cost_id": 3,
+    "item": "M/C Press",
+    "cycle_time_per_pcs": 10,
+    "activities": 2
+  }
+]
