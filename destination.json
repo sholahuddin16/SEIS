@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_destination_id": 1,
+      "origin": "Jakarta",
+      "destination": "Surabaya"
+    },
+    {
+      "pk_destination_id": 2,
+      "origin": "Bandung",
+      "destination": "Yogyakarta"
+    },
+    {
+      "pk_destination_id": 3,
+      "origin": "Semarang",
+      "destination": "Medan"
+    },
+    {
+      "pk_destination_id": 4,
+      "origin": "Denpasar",
+      "destination": "Makassar"
+    },
+    {
+      "pk_destination_id": 5,
+      "origin": "Balikpapan",
+      "destination": "Manado"
+    }
+  ]
+}
