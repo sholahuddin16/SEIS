@@ -1,0 +1,42 @@
+[
+  {
+    "pk_supplier_id": 1,
+    "nama_pt": "PT Astra International Tbk"
+  },
+  {
+    "pk_supplier_id": 2,
+    "nama_pt": "PT Indofood Sukses Makmur Tbk"
+  },
+  {
+    "pk_supplier_id": 3,
+    "nama_pt": "PT Gudang Garam Tbk"
+  },
+  {
+    "pk_supplier_id": 4,
+    "nama_pt": "PT Unilever Indonesia Tbk"
+  },
+  {
+    "pk_supplier_id": 5,
+    "nama_pt": "PT Toyota Motor Manufacturing Indonesia"
+  },
+  {
+    "pk_supplier_id": 6,
+    "nama_pt": "PT Krakatau Steel Tbk"
+  },
+  {
+    "pk_supplier_id": 7,
+    "nama_pt": "PT Mayora Indah Tbk"
+  },
+  {
+    "pk_supplier_id": 8,
+    "nama_pt": "PT Denso Indonesia"
+  },
+  {
+    "pk_supplier_id": 9,
+    "nama_pt": "PT Nestlé Indonesia"
+  },
+  {
+    "pk_supplier_id": 10,
+    "nama_pt": "PT Panasonic Manufacturing Indonesia"
+  }
+]
