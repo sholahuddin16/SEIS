@@ -26,6 +26,14 @@
       "prize": 15000,
       "prize_unit": "Mtr",
       "item_cost": 500
+    },
+    {
+      "pk_item_packing_id": 4,
+      "item": "CARTON BOX + PARTISI",
+      "dimention": "1220 X 250 X 450",
+      "prize": 60000,
+      "prize_unit": "Box",
+      "item_cost": 60000
     }
   ]
 }
