@@ -5,28 +5,23 @@
   "responseObject": [
     {
       "pk_destination_id": 1,
-      "origin": "Jakarta",
-      "destination": "Surabaya"
+      "destination": "Toyota Motor Thailand Co., Ltd."
     },
     {
       "pk_destination_id": 2,
-      "origin": "Bandung",
-      "destination": "Yogyakarta"
+      "destination": "Honda Malaysia Sdn. Bhd."
     },
     {
       "pk_destination_id": 3,
-      "origin": "Semarang",
-      "destination": "Medan"
+      "destination": "Mitsubishi Cambodia Co., Ltd."
     },
     {
       "pk_destination_id": 4,
-      "origin": "Denpasar",
-      "destination": "Makassar"
+      "destination": "Nissan Motor Thailand Co., Ltd."
     },
     {
       "pk_destination_id": 5,
-      "origin": "Balikpapan",
-      "destination": "Manado"
+      "destination": "Suzuki Malaysia Sdn. Bhd."
     }
   ]
 }
