@@ -34,6 +34,14 @@
       "prize": 60000,
       "prize_unit": "Box",
       "item_cost": 60000
+    },
+    {
+      "pk_item_packing_id": 5,
+      "item": "POLYFOAM MT-PCK0062",
+      "dimention": "300 X 115 X 1",
+      "prize": 2300,
+      "prize_unit": "Bag",
+      "item_cost": 2300
     }
   ]
 }
