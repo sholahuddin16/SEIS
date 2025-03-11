@@ -8,18 +8,6 @@
       "item": "Total C/Time",
       "cycle_time_sec": 120,
       "mp_rate_rp_per_sec": 10.2
-    },
-    {
-      "pk_direct_cost_id": 2,
-      "item": "Total C/Time",
-      "cycle_time_sec": 130,
-      "mp_rate_rp_per_sec": 10.2
-    },
-    {
-      "pk_direct_cost_id": 3,
-      "item": "Total C/Time",
-      "cycle_time_sec": 130,
-      "mp_rate_rp_per_sec": 10.2
     }
   ]
 }
