@@ -4,11 +4,11 @@
   "message": "Data",
   "responseObject": [
     {
-      "pk_type_packing": 1,
+      "pk_type_packing_id": 1,
       "type_package": "CKD"
     },
     {
-      "pk_type_packing": 2,
+      "pk_type_packing_id": 2,
       "type_package": "Service"
     }
   ]
