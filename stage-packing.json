@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_stage_id": 1,
+      "fk_type_package_id": 1,
+      "type_stage": "CKD Export",
+      "name_stage": "1G"
+    },
+    {
+      "pk_stage_id": 2,
+      "fk_type_package_id": 1,
+      "type_stage": "CKD Export",
+      "name_stage": "MPT"
+    },
+    {
+      "pk_stage_id": 3,
+      "fk_type_package_id": 1,
+      "type_stage": "CKD Export",
+      "name_stage": "Linefill"
+    },
+    {
+      "pk_stage_id": 4,
+      "fk_type_package_id": 1,
+      "type_stage": "CKD Export",
+      "name_stage": "SOP"
+    },
+    {
+      "pk_stage_id": 5,
+      "fk_type_package_id": 2,
+      "type_stage": "Service Part",
+      "name_stage": "Trial"
+    },
+    {
+      "pk_stage_id": 6,
+      "fk_type_package_id": 2,
+      "type_stage": "Service Part",
+      "name_stage": "SOP"
+    }
+  ]
+}

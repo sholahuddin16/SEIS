@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_item_packing_id": 1,
+      "item": "CARTON BOX + PARTISI"
+    },
+    {
+      "pk_item_packing_id": 2,
+      "item": "OPP TAPE"
+    },
+    {
+      "pk_item_packing_id": 3,
+      "item": "PLASTIC BLUE BAG"
+    },
+    {
+      "pk_item_packing_id": 4,
+      "item": "POLYFOAM 5-3-0100-1263"
+    },
+    {
+      "pk_item_packing_id": 5,
+      "item": "POLYFOAM 5-3-0100-1290"
+    },
+    {
+      "pk_item_packing_id": 6,
+      "item": "POLYFOAM 5-3-0300-0296"
+    },
+    {
+      "pk_item_packing_id": 7,
+      "item": "POLYFOAM MT-PCK0062"
+    },
+    {
+      "pk_item_packing_id": 8,
+      "item": "POLYFOAM MT-PCK0074"
+    }
+  ]
+}

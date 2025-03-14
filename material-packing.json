@@ -5,6 +5,7 @@
   "responseObject": [
     {
       "pk_material_packing_id": 1,
+      "fk_material_packing_id": 1,
       "item": "CARTON BOX + PARTISI",
       "dimension": "1220 X 250 X 450",
       "weight_gr": null,
@@ -13,6 +14,7 @@
     },
     {
       "pk_material_packing_id": 2,
+      "fk_material_packing_id": 2,
       "item": "OPP TAPE",
       "dimension": "2 INCHI",
       "weight_gr": null,
@@ -21,6 +23,7 @@
     },
     {
       "pk_material_packing_id": 3,
+      "fk_material_packing_id": 3,
       "item": "PLASTIC BLUE BAG",
       "dimension": "150 X 100 X 0.05 (4gr)",
       "weight_gr": 4,
@@ -29,6 +32,7 @@
     },
     {
       "pk_material_packing_id": 4,
+      "fk_material_packing_id": 4,
       "item": "PLASTIC BLUE BAG",
       "dimension": "200 X 100 X 0.05 (5gr)",
       "weight_gr": 5,
@@ -37,6 +41,7 @@
     },
     {
       "pk_material_packing_id": 5,
+      "fk_material_packing_id": 5,
       "item": "PLASTIC BLUE BAG",
       "dimension": "200 X 150 X 0.05 (8gr)",
       "weight_gr": 8,
@@ -45,6 +50,7 @@
     },
     {
       "pk_material_packing_id": 6,
+      "fk_material_packing_id": 6,
       "item": "PLASTIC BLUE BAG",
       "dimension": "100 X 100 X 0.05 (2gr)",
       "weight_gr": 2,
@@ -53,6 +59,7 @@
     },
     {
       "pk_material_packing_id": 7,
+      "fk_material_packing_id": 7,
       "item": "PLASTIC BLUE BAG",
       "dimension": "700 X 400 X 0.05 (68gr)",
       "weight_gr": 68,
@@ -61,6 +68,7 @@
     },
     {
       "pk_material_packing_id": 8,
+      "fk_material_packing_id": 8,
       "item": "PLASTIC BLUE BAG",
       "dimension": "300 X 160 X 0.05 (12gr)",
       "weight_gr": 12,
@@ -69,6 +77,7 @@
     },
     {
       "pk_material_packing_id": 9,
+      "fk_material_packing_id": 9,
       "item": "PLASTIC BLUE BAG",
       "dimension": "450 X 300 X 0.05 (33gr)",
       "weight_gr": 33,
@@ -77,6 +86,7 @@
     },
     {
       "pk_material_packing_id": 10,
+      "fk_material_packing_id": 10,
       "item": "PLASTIC BLUE BAG",
       "dimension": "500 X 160 X 0.05 (20gr)",
       "weight_gr": 20,
@@ -85,6 +95,7 @@
     },
     {
       "pk_material_packing_id": 11,
+      "fk_material_packing_id": 11,
       "item": "PLASTIC BLUE BAG",
       "dimension": "600 X 400 X 0.05 (58gr)",
       "weight_gr": 58,
@@ -93,6 +104,7 @@
     },
     {
       "pk_material_packing_id": 12,
+      "fk_material_packing_id": 12,
       "item": "PLASTIC BLUE BAG",
       "dimension": "350 X 200 X 0.05 (17gr)",
       "weight_gr": 17,
@@ -101,6 +113,7 @@
     },
     {
       "pk_material_packing_id": 13,
+      "fk_material_packing_id": 13,
       "item": "PLASTIC BLUE BAG",
       "dimension": "350 X 250 X 0.05 (21gr)",
       "weight_gr": 21,
@@ -109,6 +122,7 @@
     },
     {
       "pk_material_packing_id": 14,
+      "fk_material_packing_id": 14,
       "item": "PLASTIC BLUE BAG",
       "dimension": "900 X 250 X 0.05 (54gr)",
       "weight_gr": 54,
@@ -117,6 +131,7 @@
     },
     {
       "pk_material_packing_id": 15,
+      "fk_material_packing_id": 15,
       "item": "PLASTIC BLUE BAG",
       "dimension": "450 X 100 X 0.05 (11gr)",
       "weight_gr": 11,
@@ -125,6 +140,7 @@
     },
     {
       "pk_material_packing_id": 16,
+      "fk_material_packing_id": 16,
       "item": "POLYFOAM 5-3-0100-1263",
       "dimension": "900 X 400 X 1",
       "weight_gr": null,
@@ -133,6 +149,7 @@
     },
     {
       "pk_material_packing_id": 17,
+      "fk_material_packing_id": 17,
       "item": "POLYFOAM 5-3-0100-1290",
       "dimension": "1500 X 320 X 1",
       "weight_gr": null,
@@ -141,6 +158,7 @@
     },
     {
       "pk_material_packing_id": 18,
+      "fk_material_packing_id": 18,
       "item": "POLYFOAM 5-3-0300-0296",
       "dimension": "1100 X 500 X 1",
       "weight_gr": null,
@@ -149,6 +167,7 @@
     },
     {
       "pk_material_packing_id": 19,
+      "fk_material_packing_id": 19,
       "item": "POLYFOAM MT-PCK0062",
       "dimension": "300 X 115 X 1",
       "weight_gr": null,
@@ -157,6 +176,7 @@
     },
     {
       "pk_material_packing_id": 20,
+      "fk_material_packing_id": 20,
       "item": "POLYFOAM MT-PCK0074",
       "dimension": "450 X 220 X 1",
       "weight_gr": null,
