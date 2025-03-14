@@ -1,0 +1,167 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_material_packing_id": 1,
+      "item": "CARTON BOX + PARTISI",
+      "dimension": "1220 X 250 X 450",
+      "weight_gr": null,
+      "price": "60000 /box",
+      "total_price": 60000
+    },
+    {
+      "pk_material_packing_id": 2,
+      "item": "OPP TAPE",
+      "dimension": "2 INCHI",
+      "weight_gr": null,
+      "price": "15000 /30mtr",
+      "total_price": 25.4
+    },
+    {
+      "pk_material_packing_id": 3,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "150 X 100 X 0.05 (4gr)",
+      "weight_gr": 4,
+      "price": "30500 /Kg",
+      "total_price": 122
+    },
+    {
+      "pk_material_packing_id": 4,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "200 X 100 X 0.05 (5gr)",
+      "weight_gr": 5,
+      "price": "30500 /Kg",
+      "total_price": 152.5
+    },
+    {
+      "pk_material_packing_id": 5,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "200 X 150 X 0.05 (8gr)",
+      "weight_gr": 8,
+      "price": "30500 /Kg",
+      "total_price": 244
+    },
+    {
+      "pk_material_packing_id": 6,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "100 X 100 X 0.05 (2gr)",
+      "weight_gr": 2,
+      "price": "30500 /Kg",
+      "total_price": 61
+    },
+    {
+      "pk_material_packing_id": 7,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "700 X 400 X 0.05 (68gr)",
+      "weight_gr": 68,
+      "price": "30500 /Kg",
+      "total_price": 2074
+    },
+    {
+      "pk_material_packing_id": 8,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "300 X 160 X 0.05 (12gr)",
+      "weight_gr": 12,
+      "price": "30500 /Kg",
+      "total_price": 366
+    },
+    {
+      "pk_material_packing_id": 9,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "450 X 300 X 0.05 (33gr)",
+      "weight_gr": 33,
+      "price": "30500 /Kg",
+      "total_price": 1006.5
+    },
+    {
+      "pk_material_packing_id": 10,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "500 X 160 X 0.05 (20gr)",
+      "weight_gr": 20,
+      "price": "30500 /Kg",
+      "total_price": 610
+    },
+    {
+      "pk_material_packing_id": 11,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "600 X 400 X 0.05 (58gr)",
+      "weight_gr": 58,
+      "price": "30500 /Kg",
+      "total_price": 1769
+    },
+    {
+      "pk_material_packing_id": 12,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "350 X 200 X 0.05 (17gr)",
+      "weight_gr": 17,
+      "price": "30500 /Kg",
+      "total_price": 518.5
+    },
+    {
+      "pk_material_packing_id": 13,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "350 X 250 X 0.05 (21gr)",
+      "weight_gr": 21,
+      "price": "30500 /Kg",
+      "total_price": 640.5
+    },
+    {
+      "pk_material_packing_id": 14,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "900 X 250 X 0.05 (54gr)",
+      "weight_gr": 54,
+      "price": "30500 /Kg",
+      "total_price": 1647
+    },
+    {
+      "pk_material_packing_id": 15,
+      "item": "PLASTIC BLUE BAG",
+      "dimension": "450 X 100 X 0.05 (11gr)",
+      "weight_gr": 11,
+      "price": "30500 /Kg",
+      "total_price": 335.5
+    },
+    {
+      "pk_material_packing_id": 16,
+      "item": "POLYFOAM 5-3-0100-1263",
+      "dimension": "900 X 400 X 1",
+      "weight_gr": null,
+      "price": "2100 /Bag",
+      "total_price": 2100
+    },
+    {
+      "pk_material_packing_id": 17,
+      "item": "POLYFOAM 5-3-0100-1290",
+      "dimension": "1500 X 320 X 1",
+      "weight_gr": null,
+      "price": "6500 /Bag",
+      "total_price": 6500
+    },
+    {
+      "pk_material_packing_id": 18,
+      "item": "POLYFOAM 5-3-0300-0296",
+      "dimension": "1100 X 500 X 1",
+      "weight_gr": null,
+      "price": "5500 /Bag",
+      "total_price": 5500
+    },
+    {
+      "pk_material_packing_id": 19,
+      "item": "POLYFOAM MT-PCK0062",
+      "dimension": "300 X 115 X 1",
+      "weight_gr": null,
+      "price": "2300 /Bag",
+      "total_price": 2300
+    },
+    {
+      "pk_material_packing_id": 20,
+      "item": "POLYFOAM MT-PCK0074",
+      "dimension": "450 X 220 X 1",
+      "weight_gr": null,
+      "price": "1600 /Bag",
+      "total_price": 1600
+    }
+  ]
+}
