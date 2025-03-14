@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_service_part_id": 1,
+      "stage": "Trial"
+    },
+    {
+      "pk_service_part_id": 2,
+      "stage": "SOP"
+    }
+  ]
+}
