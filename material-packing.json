@@ -10,7 +10,8 @@
       "dimension": "1220 X 250 X 450",
       "weight_gr": null,
       "price_per_n": "60000 /box",
-      "price": 60000
+      "price": 60000,
+      "price_unit": "box"
     },
     {
       "pk_material_packing_id": 2,
@@ -19,7 +20,8 @@
       "dimension": "2 INCHI",
       "weight_gr": null,
       "price_per_n": "15000 /30mtr",
-      "price": 25.4
+      "price": 25.4,
+      "price_unit": "mtr"
     },
     {
       "pk_material_packing_id": 3,
@@ -28,7 +30,8 @@
       "dimension": "150 X 100 X 0.05 (4gr)",
       "weight_gr": 4,
       "price_per_n": "30500 /Kg",
-      "price": 122
+      "price": 122,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 4,
@@ -37,7 +40,8 @@
       "dimension": "200 X 100 X 0.05 (5gr)",
       "weight_gr": 5,
       "price_per_n": "30500 /Kg",
-      "price": 152.5
+      "price": 152.5,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 5,
@@ -46,7 +50,8 @@
       "dimension": "200 X 150 X 0.05 (8gr)",
       "weight_gr": 8,
       "price_per_n": "30500 /Kg",
-      "price": 244
+      "price": 244,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 6,
@@ -55,7 +60,8 @@
       "dimension": "100 X 100 X 0.05 (2gr)",
       "weight_gr": 2,
       "price_per_n": "30500 /Kg",
-      "price": 61
+      "price": 61,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 7,
@@ -64,7 +70,8 @@
       "dimension": "700 X 400 X 0.05 (68gr)",
       "weight_gr": 68,
       "price_per_n": "30500 /Kg",
-      "price": 2074
+      "price": 2074,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 8,
@@ -73,7 +80,8 @@
       "dimension": "300 X 160 X 0.05 (12gr)",
       "weight_gr": 12,
       "price_per_n": "30500 /Kg",
-      "price": 366
+      "price": 366,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 9,
@@ -82,7 +90,8 @@
       "dimension": "450 X 300 X 0.05 (33gr)",
       "weight_gr": 33,
       "price_per_n": "30500 /Kg",
-      "price": 1006.5
+      "price": 1006.5,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 10,
@@ -91,7 +100,8 @@
       "dimension": "500 X 160 X 0.05 (20gr)",
       "weight_gr": 20,
       "price_per_n": "30500 /Kg",
-      "price": 610
+      "price": 610,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 11,
@@ -100,7 +110,8 @@
       "dimension": "600 X 400 X 0.05 (58gr)",
       "weight_gr": 58,
       "price_per_n": "30500 /Kg",
-      "price": 1769
+      "price": 1769,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 12,
@@ -109,7 +120,8 @@
       "dimension": "350 X 200 X 0.05 (17gr)",
       "weight_gr": 17,
       "price_per_n": "30500 /Kg",
-      "price": 518.5
+      "price": 518.5,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 13,
@@ -118,7 +130,8 @@
       "dimension": "350 X 250 X 0.05 (21gr)",
       "weight_gr": 21,
       "price_per_n": "30500 /Kg",
-      "price": 640.5
+      "price": 640.5,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 14,
@@ -127,7 +140,8 @@
       "dimension": "900 X 250 X 0.05 (54gr)",
       "weight_gr": 54,
       "price_per_n": "30500 /Kg",
-      "price": 1647
+      "price": 1647,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 15,
@@ -136,7 +150,8 @@
       "dimension": "450 X 100 X 0.05 (11gr)",
       "weight_gr": 11,
       "price_per_n": "30500 /Kg",
-      "price": 335.5
+      "price": 335.5,
+      "price_unit": "g"
     },
     {
       "pk_material_packing_id": 16,
@@ -145,7 +160,8 @@
       "dimension": "900 X 400 X 1",
       "weight_gr": null,
       "price_per_n": "2100 /Bag",
-      "price": 2100
+      "price": 2100,
+      "price_unit": "bag"
     },
     {
       "pk_material_packing_id": 17,
@@ -154,7 +170,8 @@
       "dimension": "1500 X 320 X 1",
       "weight_gr": null,
       "price_per_n": "6500 /Bag",
-      "price": 6500
+      "price": 6500,
+      "price_unit": "bag"
     },
     {
       "pk_material_packing_id": 18,
@@ -163,7 +180,8 @@
       "dimension": "1100 X 500 X 1",
       "weight_gr": null,
       "price_per_n": "5500 /Bag",
-      "price": 5500
+      "price": 5500,
+      "price_unit": "bag"
     },
     {
       "pk_material_packing_id": 19,
@@ -172,7 +190,8 @@
       "dimension": "300 X 115 X 1",
       "weight_gr": null,
       "price_per_n": "2300 /Bag",
-      "price": 2300
+      "price": 2300,
+      "price_unit": "bag"
     },
     {
       "pk_material_packing_id": 20,
@@ -181,7 +200,8 @@
       "dimension": "450 X 220 X 1",
       "weight_gr": null,
       "price_per_n": "1600 /Bag",
-      "price": 1600
+      "price": 1600,
+      "price_unit": "bag"
     }
   ]
 }
