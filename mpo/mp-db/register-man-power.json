@@ -7,7 +7,7 @@
         "sc_registered_period": "2 Years 11 Month",
         "working_period": "2022-04-17",
         "supplier": "KFK",
-        "status_working": true,
+        "status_working": "Working",
         "status": "Active"
     },
     {
@@ -29,7 +29,7 @@
         "sc_registered_period": "0 Years 7 Month",
         "working_period": "2024-08-17",
         "supplier": "KFK",
-        "status_working": false,
+        "status_working": "Not Working",
         "status": "On Leave"
     }
 ]
