@@ -1,0 +1,29 @@
+[
+  {
+      "ID": "00010624KFK",
+      "Name": "Muhamad Ramadoni",
+      "Working scope": "Anzen Leader",
+      "SC Registered period": "2 Years 11 Month",
+      "Working Period": "2022-04-17",
+      "Supplier": "KFK",
+      "Status": "Working (Active)"
+  },
+  {
+      "ID": "00020624KFK",
+      "Name": "Soleh",
+      "Working scope": "Welder",
+      "SC Registered period": "1 Years 5 Month",
+      "Working Period": "2023-10-17",
+      "Supplier": "KFK",
+      "Status": "Not Active"
+  },
+  {
+      "ID": "00030624KFK",
+      "Name": "Soilhun",
+      "Working scope": "Helper",
+      "SC Registered period": "0 Years 7 Month",
+      "Working Period": "2024-08-17",
+      "Supplier": "KFK",
+      "Status": "Not Working (On Leave)"
+  }
+]
