@@ -1,32 +1,35 @@
 [
-  {
-      "pk_register_man_power_id": 1,
-      "id": "00010624KFK",
-      "name": "Muhamad Ramadoni",
-      "working_scope": "Anzen Leader",
-      "sc_registered_period": "2 Years 11 Month",
-      "working_period": "2022-04-17",
-      "supplier": "KFK",
-      "status": "Working (Active)"
-  },
-  {
-      "pk_register_man_power_id": 2,
-      "id": "00020624KFK",
-      "name": "Soleh",
-      "working_scope": "Welder",
-      "sc_registered_period": "1 Years 5 Month",
-      "working_period": "2023-10-17",
-      "supplier": "KFK",
-      "status": "Not Active"
-  },
-  {
-      "pk_register_man_power_id": 3,
-      "id": "00030624KFK",
-      "name": "Soilhun",
-      "working_scope": "Helper",
-      "sc_registered_period": "0 Years 7 Month",
-      "working_period": "2024-08-17",
-      "supplier": "KFK",
-      "status": "Not Working (On Leave)"
-  }
+    {
+        "pk_register_man_power_id": 1,
+        "id": "00010624KFK",
+        "name": "Muhamad Ramadoni",
+        "working_scope": "Anzen Leader",
+        "sc_registered_period": "2 Years 11 Month",
+        "working_period": "2022-04-17",
+        "supplier": "KFK",
+        "status_working": "Working",
+        "status": "Active"
+    },
+    {
+        "pk_register_man_power_id": 2,
+        "id": "00020624KFK",
+        "name": "Soleh",
+        "working_scope": "Welder",
+        "sc_registered_period": "1 Years 5 Month",
+        "working_period": "2023-10-17",
+        "supplier": "KFK",
+        "status_working": null,
+        "status": "Not Active"
+    },
+    {
+        "pk_register_man_power_id": 3,
+        "id": "00030624KFK",
+        "name": "Soilhun",
+        "working_scope": "Helper",
+        "sc_registered_period": "0 Years 7 Month",
+        "working_period": "2024-08-17",
+        "supplier": "KFK",
+        "status_working": "Not Working",
+        "status": "On Leave"
+    }
 ]
