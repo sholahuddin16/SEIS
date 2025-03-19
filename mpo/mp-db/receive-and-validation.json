@@ -1,5 +1,6 @@
 [
   {
+    "pk_receive_and_validation_id": 1,
     "registration_no": "0001KFK",
     "registration_date": "2025-01-10",
     "name": "Budi",
@@ -7,6 +8,7 @@
     "supplier": "KFK"
   },
   {
+    "pk_receive_and_validation_id": 2,
     "registration_no": "0002KFK",
     "registration_date": "2025-01-25",
     "name": "Iwan",
@@ -14,6 +16,7 @@
     "supplier": "KFK"
   },
   {
+    "pk_receive_and_validation_id": 3,
     "registration_no": "0003GNP",
     "registration_date": "2025-02-01",
     "name": "Jefri",
