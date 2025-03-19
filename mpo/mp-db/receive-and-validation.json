@@ -3,6 +3,7 @@
     "pk_receive_and_validation_id": 1,
     "registration_no": "0001KFK",
     "registration_date": "2025-01-10",
+    "registered_period": "2 Years 11 Month",
     "name": "Budi",
     "working_scope": "Azen Leader",
     "supplier": "KFK"
@@ -11,6 +12,7 @@
     "pk_receive_and_validation_id": 2,
     "registration_no": "0002KFK",
     "registration_date": "2025-01-25",
+    "registered_period": "1 Years 10 Month",
     "name": "Iwan",
     "working_scope": "Welder",
     "supplier": "KFK"
@@ -19,6 +21,7 @@
     "pk_receive_and_validation_id": 3,
     "registration_no": "0003GNP",
     "registration_date": "2025-02-01",
+    "registered_period": "2 Years 6 Month",
     "name": "Jefri",
     "working_scope": "Helper",
     "supplier": "GNP"
