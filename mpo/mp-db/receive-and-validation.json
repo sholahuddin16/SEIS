@@ -1,0 +1,23 @@
+[
+  {
+    "registration_no": "0001KFK",
+    "registration_date": "2025-01-10",
+    "name": "Budi",
+    "working_scope": "Azen Leader",
+    "supplier": "KFK"
+  },
+  {
+    "registration_no": "0002KFK",
+    "registration_date": "2025-01-25",
+    "name": "Iwan",
+    "working_scope": "Welder",
+    "supplier": "KFK"
+  },
+  {
+    "registration_no": "0003GNP",
+    "registration_date": "2025-02-01",
+    "name": "Jefri",
+    "working_scope": "Helper",
+    "supplier": "GNP"
+  }
+]
