@@ -1,0 +1,22 @@
+[
+  {
+    "pk_attendance_karyawan_id": 1,
+    "id": "00010624KFK",
+    "name": "Muhamad Ramadoni",
+    "supplier": "KFK",
+    "job_scope": "Anzen Leader",
+    "days": "3 days",
+    "duration": "24 hours",
+    "overtime": "01:00"
+  },
+  {
+    "pk_attendace_karyawan_id": 2,
+    "id": "00010624KFK",
+    "name": "Muhamad Ramadoni",
+    "supplier": "KFK",
+    "job_scope": "Anzen Leader",
+    "days": "3 days",
+    "duration": "24 hours",
+    "overtime": "01:00"
+  }
+]
