@@ -1,5 +1,6 @@
 [
   {
+    "pk_supplier_selection_id": 1,
     "spk_no": "78923",
     "job": "CLEANING DOLLY",
     "date_required": "1 JULY 2024 - 10 JULY 2024",
@@ -9,6 +10,7 @@
     "user": "ARIO_SENO"
   },
   {
+    "pk_supplier_selection_id": 2,
     "spk_no": "78923",
     "job": "CLEANING DOLLY",
     "date_required": "1 JULY 2024 - 10 JULY 2024",
