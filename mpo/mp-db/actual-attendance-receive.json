@@ -1,0 +1,24 @@
+[
+  {
+    "pk_actual_attendance_receive_id": 1,
+    "spk_no": "78923",
+    "job": "Cleaning Dolly",
+    "date_required": "1 July 2024 - 10 July 2024",
+    "mp": "18 MP",
+    "day": "10 Day",
+    "work_hour": "350 Hours",
+    "overtime": "25 Hours",
+    "amount": "Idr 7,900,000"
+  },
+  {
+    "pk_actual_attendance_receive_id": 2,
+    "spk_no": "78923",
+    "job": "Cleaning Dolly",
+    "date_required": "1 July 2024 - 10 July 2024",
+    "mp": "18 MP",
+    "day": "10 Day",
+    "work_hour": "489 Hours",
+    "overtime": "40 Hours",
+    "amount": "Idr 8,900,000"
+  }
+]
