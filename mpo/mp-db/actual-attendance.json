@@ -1,8 +1,9 @@
 [
   {
+    "pk_actual_attendance_id": 1,
     "date": "01-07-2024",
     "day": "Monday",
-    "workdays": "day shift",
+    "work_days": "day shift",
     "in": "06:50",
     "out": "17:40",
     "actual_duration": "09:35",
@@ -13,9 +14,10 @@
     "job": "Cleaning dolly"
   },
   {
+    "pk_actual_attendance_id": 2,
     "date": "02-07-2024",
     "day": "Tuesday",
-    "workdays": "day shift",
+    "work_days": "day shift",
     "in": "06:50",
     "out": "17:40",
     "actual_duration": "09:35",
@@ -26,9 +28,10 @@
     "job": "Cleaning dolly"
   },
   {
+    "pk_actual_attendance_id": 3,
     "date": "03-07-2024",
     "day": "Wednesday",
-    "workdays": "day shift",
+    "work_days": "day shift",
     "in": null,
     "out": null,
     "actual_duration": null,
@@ -39,9 +42,10 @@
     "job": null
   },
   {
+    "pk_actual_attendance_id": 4,
     "date": "04-07-2024",
     "day": "Thursday",
-    "workdays": "day shift",
+    "work_days": "day shift",
     "in": null,
     "out": null,
     "actual_duration": null,
