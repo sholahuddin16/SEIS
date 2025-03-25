@@ -49,7 +49,7 @@
       "chuck": 4000000,
       "sa_investment": 3000000,
       "trial_test": 519,
-      "transfer": "No",
+      "transfer": false,
       "total_investment_cost": 0,
       "total_investment": 75925
     },
@@ -99,7 +99,7 @@
       "chuck": 2000000,
       "sa_investment": 1500000,
       "trial_test": 259,
-      "transfer": "No",
+      "transfer": false,
       "total_investment_cost": 0,
       "total_investment": 39850
     },
@@ -149,7 +149,7 @@
       "chuck": 3500000,
       "sa_investment": 4000000,
       "trial_test": 715,
-      "transfer": "No",
+      "transfer": false,
       "total_investment_cost": 0,
       "total_investment": 104565
     }
