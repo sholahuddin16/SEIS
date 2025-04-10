@@ -4,7 +4,7 @@
   "message": "Data",
   "responseObject": [
     {
-      "pk_type_packing_id": 1,
+      "pk_pk_engineering_data_id": 1,
       "no": "1",
       "part_no": "74431-482DL-1",
       "part_name": "TRAY, BATTERY",
@@ -62,7 +62,7 @@
       "total_investment": 5551
     },
     {
-      "pk_type_packing_id": 2,
+      "pk_pk_engineering_data_id": 2,
       "no": "2",
       "part_no": "89912-123XY-2",
       "part_name": "HANDLE, DOOR",
@@ -120,7 +120,7 @@
       "total_investment": 3480
     },
     {
-      "pk_type_packing_id": 3,
+      "pk_pk_engineering_data_id": 3,
       "no": "3",
       "part_no": "77745-998LK-4",
       "part_name": "COVER, MIRROR",
