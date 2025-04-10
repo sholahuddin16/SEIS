@@ -1,0 +1,37 @@
+[
+  {
+    "No": "1",
+    "Nama": "Muhammad Ramdan",
+    "Jabatan": "Helper",
+    "Period": "80 H",
+    "Price": "IDR 1.680.000"
+  },
+  {
+    "No": "2",
+    "Nama": "Siti Nurhaliza",
+    "Jabatan": "Admin",
+    "Period": "75 H",
+    "Price": "IDR 2.000.000"
+  },
+  {
+    "No": "3",
+    "Nama": "Ahmad Fauzi",
+    "Jabatan": "Operator",
+    "Period": "90 H",
+    "Price": "IDR 2.500.000"
+  },
+  {
+    "No": "4",
+    "Nama": "Dewi Lestari",
+    "Jabatan": "Supervisor",
+    "Period": "60 H",
+    "Price": "IDR 3.200.000"
+  },
+  {
+    "No": "5",
+    "Nama": "Rizky Maulana",
+    "Jabatan": "Technician",
+    "Period": "85 H",
+    "Price": "IDR 2.750.000"
+  }
+]
