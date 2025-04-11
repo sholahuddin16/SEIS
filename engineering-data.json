@@ -10,13 +10,6 @@
       "part_name": "TRAY, BATTERY",
       "qty": 1,
       "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgrabcad.com%2Flibrary%2Ffront-bumper--1&psig=AOvVaw3xVdyS1vCKqyknxCFDPRNI&ust=1744379645870000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDmktvOzYwDFQAAAAAdAAAAABAE",
-      "condition": [
-        {
-          "key": "1",
-          "label": "Part Size",
-          "children": "110.0 x 95.0 x 25.0"
-        }
-      ],
       "c_part_size": "190.5 x 293.2 x 48.5",
       "c_tech_material": "TSM5514G-2",
       "c_material": "IPC B132AT",
@@ -75,13 +68,6 @@
       "part_name": "HANDLE, DOOR",
       "qty": 2,
       "picture": "https://example.com/images/handle-door.png",
-      "condition": [
-        {
-          "key": "1",
-          "label": "Part Size",
-          "children": "110.0 x 95.0 x 25.0"
-        }
-      ],
       "c_part_size": "140.0 x 75.0 x 30.0",
       "c_tech_material": "TSM5533X",
       "c_material": "IPC D110AT",
@@ -140,13 +126,6 @@
       "part_name": "COVER, MIRROR",
       "qty": 1,
       "picture": "https://example.com/images/cover-mirror.jpg",
-      "condition": [
-        {
-          "key": "1",
-          "label": "Part Size",
-          "children": "110.0 x 95.0 x 25.0"
-        }
-      ],
       "c_part_size": "110.0 x 95.0 x 25.0",
       "c_tech_material": "TSM2208N",
       "c_material": "IPC E222RT",
