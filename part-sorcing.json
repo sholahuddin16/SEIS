@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_part_sourcing_id": 1,
+      "part_sourcing": "sugity"
+    },
+    {
+      "pk_part_sourcing_id": 2,
+      "part_sourcing": "rpt"
+    },
+    {
+      "pk_part_sourcing_id": 3,
+      "part_sourcing": "ttec"
+    },
+    {
+      "pk_part_sourcing_id": 4,
+      "part_sourcing": "kati"
+    },
+    {
+      "pk_part_sourcing_id": 5,
+      "part_sourcing": "inoac"
+    },
+    {
+      "pk_part_sourcing_id": 6,
+      "part_sourcing": "smi"
+    },
+    {
+      "pk_part_sourcing_id": 7,
+      "part_sourcing": "others/ v to v"
+    },
+    {
+      "pk_part_sourcing_id": 8,
+      "part_sourcing": "ckd"
+    },
+    {
+      "pk_part_sourcing_id": 9,
+      "part_sourcing": "flag"
+    }
+  ]
+}
