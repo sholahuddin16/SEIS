@@ -1,0 +1,207 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "id": 1,
+      "weight_range": "1 - 10",
+      "tolerance": 1
+    },
+    {
+      "id": 2,
+      "weight_range": "10.1 - 16",
+      "tolerance": 1.5
+    },
+    {
+      "id": 3,
+      "weight_range": "16.1 - 25",
+      "tolerance": 2
+    },
+    {
+      "id": 4,
+      "weight_range": "25.1 - 40",
+      "tolerance": 3
+    },
+    {
+      "id": 5,
+      "weight_range": "40.1 - 63",
+      "tolerance": 4
+    },
+    {
+      "id": 6,
+      "weight_range": "63.1 - 100",
+      "tolerance": 6
+    },
+    {
+      "id": 7,
+      "weight_range": "100.1 - 125",
+      "tolerance": 7
+    },
+    {
+      "id": 8,
+      "weight_range": "125.1 - 160",
+      "tolerance": 9
+    },
+    {
+      "id": 9,
+      "weight_range": "160.1 - 200",
+      "tolerance": 11
+    },
+    {
+      "id": 10,
+      "weight_range": "200.1 - 250",
+      "tolerance": 13
+    },
+    {
+      "id": 11,
+      "weight_range": "250.1 - 315",
+      "tolerance": 16
+    },
+    {
+      "id": 12,
+      "weight_range": "315.1 - 400",
+      "tolerance": 20
+    },
+    {
+      "id": 13,
+      "weight_range": "400.1 - 500",
+      "tolerance": 24
+    },
+    {
+      "id": 14,
+      "weight_range": "500.1 - 630",
+      "tolerance": 28
+    },
+    {
+      "id": 15,
+      "weight_range": "630.1 - 800",
+      "tolerance": 36
+    },
+    {
+      "id": 16,
+      "weight_range": "800.1 - 1000",
+      "tolerance": 44
+    },
+    {
+      "id": 17,
+      "weight_range": "1000.1 - 1250",
+      "tolerance": 60
+    },
+    {
+      "id": 18,
+      "weight_range": "1250.1 - 1600",
+      "tolerance": 70
+    },
+    {
+      "id": 19,
+      "weight_range": "1600.1 - 2000",
+      "tolerance": 80
+    },
+    {
+      "id": 20,
+      "weight_range": "2000.1 - 2500",
+      "tolerance": 100
+    },
+    {
+      "id": 21,
+      "weight_range": "2500.1 - 3150",
+      "tolerance": 120
+    },
+    {
+      "id": 22,
+      "weight_range": "3150.1 - 4000",
+      "tolerance": 140
+    },
+    {
+      "id": 23,
+      "weight_range": "4000.1 - 5000",
+      "tolerance": 170
+    },
+    {
+      "id": 24,
+      "weight_range": "5000.1 - 6300",
+      "tolerance": 200
+    },
+    {
+      "id": 25,
+      "weight_range": "6300.1 - 8000",
+      "tolerance": 250
+    },
+    {
+      "id": 26,
+      "weight_range": "8000.1 - 10000",
+      "tolerance": 300
+    },
+    {
+      "id": 27,
+      "weight_range": "10000.1 - 12500",
+      "tolerance": 400
+    },
+    {
+      "id": 28,
+      "weight_range": "12500.1 - 16000",
+      "tolerance": 500
+    },
+    {
+      "id": 29,
+      "weight_range": "16000.1 - 20000",
+      "tolerance": 600
+    },
+    {
+      "id": 30,
+      "weight_range": "20000.1 - 25000",
+      "tolerance": 700
+    },
+    {
+      "id": 31,
+      "weight_range": "25000.1 - 31500",
+      "tolerance": 800
+    },
+    {
+      "id": 32,
+      "weight_range": "31500.1 - 40000",
+      "tolerance": 900
+    },
+    {
+      "id": 33,
+      "weight_range": "40000.1 - 50000",
+      "tolerance": 1100
+    },
+    {
+      "id": 34,
+      "weight_range": "50000.1 - 63000",
+      "tolerance": 1300
+    },
+    {
+      "id": 35,
+      "weight_range": "63000.1 - 80000",
+      "tolerance": 1500
+    },
+    {
+      "id": 36,
+      "weight_range": "80000.1 - 100000",
+      "tolerance": 1700
+    },
+    {
+      "id": 37,
+      "weight_range": "100000.1 - 125000",
+      "tolerance": 2000
+    },
+    {
+      "id": 38,
+      "weight_range": "125000.1 - 160000",
+      "tolerance": 2300
+    },
+    {
+      "id": 39,
+      "weight_range": "160000.1 - 200000",
+      "tolerance": 2700
+    },
+    {
+      "id": 40,
+      "weight_range": "200000.1 - over",
+      "tolerance": "1.35%"
+    }
+  ]
+}
