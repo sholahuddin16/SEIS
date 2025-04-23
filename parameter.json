@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_parapeter_id": 1,
+      "parameter": "variant"
+    },
+    {
+      "pk_parapeter_id": 2,
+      "parameter": "qty_per_unit"
+    },
+    {
+      "pk_parapeter_id": 3,
+      "parameter": "part_sourcing"
+    },
+    {
+      "pk_parapeter_id": 4,
+      "parameter": "home_line_production"
+    },
+    {
+      "pk_parapeter_id": 5,
+      "parameter": "process"
+    },
+    {
+      "pk_parapeter_id": 6,
+      "parameter": "routing"
+    },
+    {
+      "pk_parapeter_id": 7,
+      "parameter": "material"
+    },
+    {
+      "pk_parapeter_id": 8,
+      "parameter": "mould"
+    },
+    {
+      "pk_parapeter_id": 9,
+      "parameter": "grain"
+    },
+    {
+      "pk_parapeter_id": 10,
+      "parameter": "weight"
+    },
+    {
+      "pk_parapeter_id": 11,
+      "parameter": "cycle_time"
+    },
+    {
+      "pk_parapeter_id": 12,
+      "parameter": "latest_eci"
+    },
+    {
+      "pk_parapeter_id": 13,
+      "parameter": "part_status"
+    }
+  ]
+}
