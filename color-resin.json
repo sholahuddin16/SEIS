@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "resinColorCode": "RC-001",
+      "colorName": "Pure White",
+      "materialType": "ABS",
+      "supplier": "ABC Polymers",
+      "usage": "Exterior Cover"
+    },
+    {
+      "resinColorCode": "RC-002",
+      "colorName": "Jet Black",
+      "materialType": "PC+ABS",
+      "supplier": "XYZ Materials",
+      "usage": "Base Frame"
+    },
+    {
+      "resinColorCode": "RC-003",
+      "colorName": "Ocean Blue",
+      "materialType": "PP",
+      "supplier": "BlueChem",
+      "usage": "Internal Components"
+    },
+    {
+      "resinColorCode": "RC-004",
+      "colorName": "Sunset Orange",
+      "materialType": "PA66",
+      "supplier": "Sunrise Resins",
+      "usage": "Handle Grip"
+    }
+  ]
+}
