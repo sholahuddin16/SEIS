@@ -4,30 +4,34 @@
   "message": "Data",
   "responseObject": [
     {
-      "resinColorCode": "RC-001",
-      "colorName": "Pure White",
-      "materialType": "ABS",
+      "pk_color_resin_id": 1,
+      "resin_color_code": "RC-001",
+      "color_name": "Pure White",
+      "material_type": "ABS",
       "supplier": "ABC Polymers",
       "usage": "Exterior Cover"
     },
     {
-      "resinColorCode": "RC-002",
-      "colorName": "Jet Black",
-      "materialType": "PC+ABS",
+      "pk_color_resin_id": 2,
+      "resin_color_code": "RC-002",
+      "color_name": "Jet Black",
+      "material_type": "PC+ABS",
       "supplier": "XYZ Materials",
       "usage": "Base Frame"
     },
     {
-      "resinColorCode": "RC-003",
-      "colorName": "Ocean Blue",
-      "materialType": "PP",
+      "pk_color_resin_id": 3,
+      "resin_color_code": "RC-003",
+      "color_name": "Ocean Blue",
+      "material_type": "PP",
       "supplier": "BlueChem",
       "usage": "Internal Components"
     },
     {
-      "resinColorCode": "RC-004",
-      "colorName": "Sunset Orange",
-      "materialType": "PA66",
+      "pk_color_resin_id": 4,
+      "resin_color_code": "RC-004",
+      "color_name": "Sunset Orange",
+      "material_type": "PA66",
       "supplier": "Sunrise Resins",
       "usage": "Handle Grip"
     }
