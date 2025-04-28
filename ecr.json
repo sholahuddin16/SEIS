@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "Data",
+  "responseObject": [
+    {
+      "pk_ecr_id": 1,
+      "model": "ABC123",
+      "ecr_no": "ECR-2025-001",
+      "part_no": "PN-456789",
+      "content": null,
+      "status": "Open"
+    },
+    {
+      "pk_ecr_id": 2,
+      "model": "XYZ789",
+      "ecr_no": "ECR-2025-002",
+      "part_no": "PN-123456",
+      "content": null,
+      "status": "In Progress"
+    },
+    {
+      "pk_ecr_id": 3,
+      "model": "LMN456",
+      "ecr_no": "ECR-2025-003",
+      "part_no": "PN-654321",
+      "content": null,
+      "status": "Approved"
+    }
+  ]
+}
