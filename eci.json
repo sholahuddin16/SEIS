@@ -4,7 +4,7 @@
   "message": "Data",
   "responseObject": [
     {
-      "pk_ecr_id": 1,
+      "pk_eci_id": 1,
       "model": "ABC123",
       "eci_no": "ECI-2025-001",
       "part_no": "PN-456789",
@@ -14,7 +14,7 @@
       "file": null
     },
     {
-      "pk_ecr_id": 2,
+      "pk_eci_id": 2,
       "model": "XYZ789",
       "eci_no": "ECI-2025-002",
       "part_no": "PN-123456",
@@ -24,7 +24,7 @@
       "file": null
     },
     {
-      "pk_ecr_id": 3,
+      "pk_eci_id": 3,
       "model": "LMN456",
       "eci_no": "ECI-2025-003",
       "part_no": "PN-654321",
