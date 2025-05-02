@@ -17,7 +17,7 @@
       "ecr_no": "ECR-2025-002",
       "part_no": "PN-123456",
       "content": null,
-      "status": "Progress"
+      "status": "Implemented"
     },
     {
       "pk_ecr_id": 3,
